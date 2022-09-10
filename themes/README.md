@@ -6,3 +6,5 @@ This file is work in progress.
 
 * https://unix4lyfe.org/xterm/
 * https://github.com/dracula/dracula-theme
+* https://github.com/solarized/xresources
+
