@@ -4,7 +4,7 @@
 ! 3. Open a new XTerm window.
 ! NOTE: To view the applied contents of this file, run `$ xrdb -query`.
 ! IMPORTANT:
-! If you update the value on any line, run `$ xrdb -merge ~/.Xresources` to apply the update.
+! If you update the value on any line in this file, run `$ xrdb -merge ~/.Xresources` to apply the update.
 ! If you un/comment or add/remove one or more lines in this file (like when trying a different color theme),
 ! run `$ xrdb -remove` to clear all resources, and then run `$ xrdb -merge ~/.Xresources` to apply the update.
 
