@@ -1,0 +1,51 @@
+! TIP: If you are new to XTerm and have not modified your system's Xresources, follow these initial instructions:
+! 1. Download and save this file to your user home directory (`~/.Xresources`).
+! 2. Run `$ xrdb -merge ~/.Xresources`.
+! 3. Open a new XTerm window.
+! NOTE: To view the applied contents of this file, run `$ xrdb -query`.
+! IMPORTANT:
+! If you update the value on any line, run `$ xrdb -merge ~/.Xresources` to apply the update.
+! If you un/comment or add/remove one or more lines in this file (like when trying a different color theme),
+! run `$ xrdb -remove` to clear all resources, and then run `$ xrdb -merge ~/.Xresources` to apply the update.
+
+! Window dimensions
+
+xterm*geometry: 106x54
+! example: 106x54 (for 15-inch laptops)
+! TIP: To conveniently determine your desired terminal window size for XTerm startup,
+! resize an XTerm window to the desired size and then run '$ resize' in it or see 'man resize'.
+xterm*internalBorder: 2
+
+! Typeface
+
+xterm*faceName: Monospace Regular
+xterm*faceSize: 11
+xterm*boldMode: false
+
+! Color theme
+
+! DOS box
+xterm*foreground: rgb:a8/a8/a8
+xterm*background: rgb:00/00/00
+xterm*color0: rgb:00/00/00
+xterm*color1: rgb:a8/00/00
+xterm*color2: rgb:00/a8/00
+xterm*color3: rgb:a8/54/00
+xterm*color4: rgb:00/00/a8
+xterm*color5: rgb:a8/00/a8
+xterm*color6: rgb:00/a8/a8
+xterm*color7: rgb:a8/a8/a8
+xterm*color8: rgb:54/54/54
+xterm*color9: rgb:fc/54/54
+xterm*color10: rgb:54/fc/54
+xterm*color11: rgb:fc/fc/54
+xterm*color12: rgb:54/54/fc
+xterm*color13: rgb:fc/54/fc
+xterm*color14: rgb:54/fc/fc
+xterm*color15: rgb:fc/fc/fc
+
+! History and scrolling
+
+xterm*saveLines: 10000
+xterm*scrollBar: false
+xterm*scrollLines: 1
