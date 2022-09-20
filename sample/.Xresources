@@ -1,5 +1,5 @@
-! TIP: If you are new to XTerm and have not modified your system's Xresources, follow these initial instructions:
-! 1. Download and save this file to your user home directory (`~/.Xresources`).
+! TIP: If you are new to XTerm and have not modified your system Xresources, follow these initial instructions:
+! 1. Download and save this file as `.Xresources` to your user home directory (`~/.Xresources`).
 ! 2. Run `$ xrdb -merge ~/.Xresources`.
 ! 3. Open a new XTerm window.
 ! NOTE: To view the applied contents of this file, run `$ xrdb -query`.
