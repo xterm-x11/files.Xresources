@@ -1,5 +1,5 @@
-! Color Scheme 1 - Dark scheme 
-! Scheme: Fandom contributor(s) (https://how-to.fandom.com/wiki/How_to_configure_xterm/Color_scheme_1)
+! Fandom color scheme 1 - dark scheme 
+! Scheme: Fandom user ZyMOS (https://how-to.fandom.com/wiki/How_to_configure_xterm/Color_scheme_1)
 
 xterm*background:  #000000
 xterm*foreground:  #9f9f9f
