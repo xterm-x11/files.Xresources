@@ -1,9 +1,9 @@
 ! There shall be colours
 ! Scheme: Sven Mascheck (https://www.in-ulm.de/~mascheck/X11/XTerm)
 
+xterm*cursorColor:	#ffdd70
 xterm*background:       rgb:19/10/50
 xterm*foreground:	rgb:ff/dd/70
-xterm*cursorColor:	#ffdd70
 xterm*color0: black
 xterm*color1: red3
 xterm*color2: green3
