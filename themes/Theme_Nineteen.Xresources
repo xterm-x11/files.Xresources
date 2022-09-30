@@ -1,0 +1,19 @@
+! Theme Nineteen
+! Scheme: ? (https://web.archive.org/web/20090130061234/http://phraktured.net/terminal-colors/)
+
+xterm*color0:  rgb:00/00/00
+xterm*color1:  rgb:b0/70/50
+xterm*color2:  rgb:12/91/4e
+xterm*color3:  rgb:a0/a0/70
+xterm*color4:  rgb:3e/45/81
+xterm*color5:  rgb:a0/70/a0
+xterm*color6:  rgb:70/a0/a0
+xterm*color7:  rgb:a0/a0/a0
+xterm*color8:  rgb:60/60/60
+xterm*color9:  rgb:b0/70/50
+xterm*color10: rgb:12/91/4e
+xterm*color11: rgb:c0/c0/90
+xterm*color12: rgb:3e/45/81
+xterm*color13: rgb:c0/90/c0
+xterm*color14: rgb:90/c0/c0
+xterm*color15: rgb:ff/ff/ff
