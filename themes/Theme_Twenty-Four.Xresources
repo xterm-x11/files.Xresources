@@ -1,0 +1,19 @@
+! Theme Twenty-Four
+! Scheme: ? (https://web.archive.org/web/20090130061234/http://phraktured.net/terminal-colors/)
+
+xterm*color0:  rgb:00/00/00
+xterm*color1:  rgb:cd/5c/5c
+xterm*color2:  rgb:8e/ae/71
+xterm*color3:  rgb:d2/b4/8c
+xterm*color4:  rgb:5f/7b/8a
+xterm*color5:  rgb:cd/cd/b4
+xterm*color6:  rgb:68/68/68
+xterm*color7:  rgb:ff/ff/ff
+xterm*color8:  rgb:00/00/00
+xterm*color9:  rgb:ee/63/63
+xterm*color10: rgb:95/c7/49
+xterm*color11: rgb:cd/cd/c1
+xterm*color12: rgb:6b/7b/8a
+xterm*color13: rgb:cd/cd/b4
+xterm*color14: rgb:77/87/98
+xterm*color15: rgb:ca/ca/ca
