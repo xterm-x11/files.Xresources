@@ -1,0 +1,21 @@
+! Theme Fourteen
+! Scheme: ? (https://web.archive.org/web/20090130061234/http://phraktured.net/terminal-colors/)
+
+xterm*background: rgb:95/95/95
+xterm*foreground: rgb:00/00/00
+xterm*color0:     rgb:7f/7f/7f
+xterm*color1:     rgb:cd/00/00
+xterm*color2:     rgb:00/8b/00
+xterm*color3:     rgb:ee/ee/00
+xterm*color4:     rgb:00/00/cd
+xterm*color5:     rgb:cd/00/cd
+xterm*color6:     rgb:00/ee/ee
+xterm*color7:     rgb:fa/eb/d7
+xterm*color8:     rgb:e5/e5/e5
+xterm*color9:     rgb:80/00/00
+xterm*color10:    rgb:00/50/20
+xterm*color11:    rgb:99/55/00
+xterm*color12:    rgb:00/40/80
+xterm*color13:    rgb:44/33/00
+xterm*color14:    rgb:30/60/80
+xterm*color15:    rgb:ff/ff/ff
