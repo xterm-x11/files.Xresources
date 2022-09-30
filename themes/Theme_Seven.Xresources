@@ -1,0 +1,21 @@
+! Theme Seven
+! Scheme: ? (https://web.archive.org/web/20090130061234/http://phraktured.net/terminal-colors/)
+
+xterm*background: rgb:67/67/67
+xterm*foreground: rgb:ff/ff/ff
+xterm*color0:     rgb:00/00/00
+xterm*color1:     rgb:bf/46/46
+xterm*color2:     rgb:67/b2/5f
+xterm*color3:     rgb:cf/c4/4e
+xterm*color4:     rgb:51/60/83
+xterm*color5:     rgb:ca/6e/ff
+xterm*color6:     rgb:92/b2/f8
+xterm*color7:     rgb:d5/d5/d5
+xterm*color8:     rgb:00/00/00
+xterm*color9:     rgb:f4/8a/8a
+xterm*color10:    rgb:a5/d7/9f
+xterm*color11:    rgb:e1/da/84
+xterm*color12:    rgb:a2/bb/ff
+xterm*color13:    rgb:e2/b0/ff
+xterm*color14:    rgb:ba/cd/f8
+xterm*color15:    rgb:d5/d5/d5
