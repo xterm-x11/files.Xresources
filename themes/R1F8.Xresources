@@ -1,0 +1,42 @@
+! R1F8
+! Scheme: tuanbro@live.com (https://r1f8.wordpress.com/2016/07/21/linux-change-xterm-theme-color-font/)
+
+xterm*boldMode:          false
+xterm*veryBoldColors:    14
+xterm*colorBD:           #ffffff
+xterm*colorBDMode:       true
+xterm*cursorColor:       #ff9900
+xterm*background:        #222222
+xterm*foreground:        #bbbbbb
+
+!black
+*color0:  #222222
+*color8:  #665555
+ 
+!red
+*color1:  #993322
+*color9:  #cc4433
+ 
+!green
+*color2:  #778800
+*color10: #88dd22
+ 
+!yellow
+*color3:  #996644
+*color11: #ffaa00
+ 
+!blue
+*color4:  #4488bb
+*color12: #1199ee
+ 
+!magneta
+*color5:  #dd1177
+*color13: #997744
+ 
+!cyan
+*color6:  #8866cc
+*color14: #9977dd
+ 
+!white
+*color7:  #bbbbbb
+*color15: #d0d0d0
