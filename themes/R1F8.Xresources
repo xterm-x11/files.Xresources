@@ -10,33 +10,33 @@ xterm*background:        #222222
 xterm*foreground:        #bbbbbb
 
 !black
-*color0:  #222222
-*color8:  #665555
+xterm**color0:  #222222
+xterm**color8:  #665555
  
 !red
-*color1:  #993322
-*color9:  #cc4433
+xterm**color1:  #993322
+xterm**color9:  #cc4433
  
 !green
-*color2:  #778800
-*color10: #88dd22
+xterm**color2:  #778800
+xterm**color10: #88dd22
  
 !yellow
-*color3:  #996644
-*color11: #ffaa00
+xterm**color3:  #996644
+xterm**color11: #ffaa00
  
 !blue
-*color4:  #4488bb
-*color12: #1199ee
+xterm**color4:  #4488bb
+xterm**color12: #1199ee
  
 !magneta
-*color5:  #dd1177
-*color13: #997744
+xterm**color5:  #dd1177
+xterm**color13: #997744
  
 !cyan
-*color6:  #8866cc
-*color14: #9977dd
+xterm**color6:  #8866cc
+xterm**color14: #9977dd
  
 !white
-*color7:  #bbbbbb
-*color15: #d0d0d0
+xterm**color7:  #bbbbbb
+xterm**color15: #d0d0d0
