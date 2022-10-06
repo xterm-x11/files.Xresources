@@ -1,0 +1,21 @@
+! Junkbox
+! Scheme: gako (https://forums.bunsenlabs.org/viewtopic.php?id=206)
+
+xterm*background: #5b2207
+xterm*foreground: #d8883c
+xterm*color0: #1d130d
+xterm*color8: #4a3930
+xterm*color1: #570202
+xterm*color9: #a42424
+xterm*color2: #643c00
+xterm*color10: #715428
+xterm*color3: #ac5401
+xterm*color11: #df6c00
+xterm*color4: #5b2207
+xterm*color12: #da7640
+xterm*color5: #2f0e0e
+xterm*color13: #836b47
+xterm*color6: #b99866
+xterm*color14: #DA7640
+xterm*color7: #f98547
+xterm*color15: #F3A45B
