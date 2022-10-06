@@ -1,0 +1,39 @@
+! Neon
+! Scheme: https://github.com/brontosaurusrex (https://github.com/brontosaurusrex/postbang)
+
+! special
+xterm*.cursorColor:  #f8f8f8
+xterm*.foreground:   #f8f8f8
+xterm*.background:   #171717
+
+! black
+xterm*.color0:       #171717
+xterm*.color8:       #38252c
+
+! red
+xterm*.color1:       #d81765
+xterm*.color9:       #ff0000
+
+! green
+xterm*.color2:       #97d01a
+xterm*.color10:      #76b639
+
+! yellow
+xterm*.color3:       #ffa800
+xterm*.color11:      #e1a126
+
+! blue
+xterm*.color4:       #16b1fb
+xterm*.color12:      #289cd5
+
+! magenta
+xterm*.color5:       #ff2491
+xterm*.color13:      #ff2491
+
+! cyan
+xterm*.color6:       #0fdcb6
+xterm*.color14:      #0a9b81
+
+! white
+xterm*.color7:       #ebebeb
+xterm*.color15:      #f8f8f8
