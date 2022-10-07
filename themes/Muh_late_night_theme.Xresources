@@ -1,0 +1,22 @@
+! Muh late night theme
+! Scheme: gako (https://forums.bunsenlabs.org/viewtopic.php?id=206)
+
+xterm*cursorColor:	#c5b994
+xterm*background:	#403a30
+xterm*foreground:	#c5b994
+xterm*color0:	  #232119
+xterm*color1:	  #df3803
+xterm*color2:	  #df5a03 
+xterm*color3:	  #df8f03
+xterm*color4:	  #a8860c
+xterm*color5:	  #c47e46
+xterm*color6:	  #80cdbd
+xterm*color7:	  #a49a7c  
+xterm*color8:	  #232119
+xterm*color9:	  #df3b03  
+xterm*color10:	  #df6b03
+xterm*color11:	  #dfbb03   
+xterm*color12:	  #a89a0c
+xterm*color13:	  #dd8c4f
+xterm*color14:	  #98e4d4
+xterm*color15:	  #bfb491
