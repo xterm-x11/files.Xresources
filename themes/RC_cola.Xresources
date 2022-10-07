@@ -1,0 +1,21 @@
+! RC_cola
+! Scheme: gako (https://forums.bunsenlabs.org/viewtopic.php?id=206)
+
+xterm*background:   #403729
+xterm*foreground:   #81572C
+xterm*color0:       #403A30
+xterm*color1:       #A4885F
+xterm*color2:       #8D7038
+xterm*color3:       #A89055
+xterm*color4:       #907142
+xterm*color5:       #A57341
+xterm*color6:       #81572C
+xterm*color7:       #B8A882
+xterm*color8:       #C5B994
+xterm*color9:       #A48E6D
+xterm*color10:      #81572C
+xterm*color11:      #A89361
+xterm*color12:      #907955
+xterm*color13:      #A57341
+xterm*color14:      #836550
+xterm*color15:      #B8A882
