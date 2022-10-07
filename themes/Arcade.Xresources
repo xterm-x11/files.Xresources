@@ -1,0 +1,21 @@
+! Arcade
+! Scheme: gako (https://forums.bunsenlabs.org/viewtopic.php?id=206)
+
+xterm*background:	#403a30
+xterm*foreground:	#c5b294
+xterm*color0:		#403a30
+xterm*color8:		#403a30
+xterm*color1:		#c83608
+xterm*color9:		#d83b09
+xterm*color2:		#c45b0d
+xterm*color10:		#e16a14
+xterm*color3:		#d86608
+xterm*color11:		#dd8d4b
+xterm*color4:		#cfb112
+xterm*color12:		#e1c111
+xterm*color5:		#abb910
+xterm*color13:		#bccc10
+xterm*color6:		#c5c860
+xterm*color14:		#e5e887
+xterm*color7:		#c5b994
+xterm*color15:		#e3d5ab
