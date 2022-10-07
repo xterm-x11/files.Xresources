@@ -1,0 +1,21 @@
+! Furikake
+! Scheme: gako (https://forums.bunsenlabs.org/viewtopic.php?id=206)
+
+xterm*background:   #403729
+xterm*foreground:   #b8a882
+xterm*color0:       #b8a882
+xterm*color1:       #86523d
+xterm*color2:       #a4725f
+xterm*color3:       #aa8d55
+xterm*color4:       #a09d70
+xterm*color5:       #d1bda0
+xterm*color6:       #836550
+xterm*color7:       #e3d0b4
+xterm*color8:       #cab98f
+xterm*color9:       #82614b
+xterm*color10:      #9e7960
+xterm*color11:      #b19868
+xterm*color12:      #bf9e87
+xterm*color13:      #c9b3a4
+xterm*color14:      #836550
+xterm*color15:      #e8e1dc
