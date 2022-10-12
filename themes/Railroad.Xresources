@@ -1,0 +1,31 @@
+! Railroad
+! Scheme: gako (https://forums.bunsenlabs.org/viewtopic.php?id=206&p=2)
+
+xterm*cursorColor:  #dddcbb
+xterm*foreground:   #dddcbb
+xterm*background:   #1b1911
+
+! black
+xterm*color0:       #8c4325
+xterm*color8:       #8c3e1e
+! red
+xterm*color1:       #8c7a25
+xterm*color9:       #8c791e
+! green
+xterm*color2:       #8c6525
+xterm*color10:      #8c621d
+! yellow
+xterm*color3:       #c4ae5b
+xterm*color11:      #c4ad54
+! blue
+xterm*color4:       #45402c
+xterm*color12:      #977856
+! magenta
+xterm*color5:       #c4935b
+xterm*color13:      #c4935b
+! cyan
+xterm*color6:       #b9b57a
+xterm*color14:      #dbab60
+! white
+xterm*color7:       #c6c5a7
+xterm*color15:      #dddcbb
