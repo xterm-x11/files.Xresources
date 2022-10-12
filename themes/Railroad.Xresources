@@ -4,7 +4,6 @@
 xterm*cursorColor:  #dddcbb
 xterm*foreground:   #dddcbb
 xterm*background:   #1b1911
-
 ! black
 xterm*color0:       #8c4325
 xterm*color8:       #8c3e1e
