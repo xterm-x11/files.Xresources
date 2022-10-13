@@ -1,0 +1,39 @@
+! Head on a stick (light)
+! Scheme: Head_on_a_Stick (https://forums.bunsenlabs.org/viewtopic.php?id=206&p=2)
+
+! special
+xterm*.foreground:   #00dd00
+xterm*.background:   [85]#000000
+xterm*.cursorColor:  #00ff00
+
+! black
+xterm*.color0:       #000000
+xterm*.color8:       #888888
+
+! red
+xterm*.color1:       #cc0000
+xterm*.color9:       #cc0000
+
+! green
+xterm*.color2:       #4e9a06
+xterm*.color10:      #4e9a06
+
+! yellow
+xterm*.color3:       #c4a000
+xterm*.color11:      #c4a000
+
+! blue
+xterm*.color4:       #3465a4
+xterm*.color12:      #3465a4
+
+! magenta
+xterm*.color5:       #75507b
+xterm*.color13:      #75507b
+
+! cyan
+xterm*.color6:       #06989a
+xterm*.color14:      #06989a
+
+! white
+xterm*.color7:       #d3d7cf
+xterm*.color15:      #d3d7df
