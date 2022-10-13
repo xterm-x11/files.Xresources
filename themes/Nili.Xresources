@@ -1,0 +1,32 @@
+! Nili (modified: black background)
+! Scheme: Nili (https://forums.bunsenlabs.org/viewtopic.php?id=206&p=3, which is a modification of https://github.com/dkeg/crayolo/blob/master/colors/urban)
+
+        ! --- special colors ---
+xterm*cursorColor:                   #934D74
+xterm*background:                    #000000
+xterm*foreground:                    #9B9CBC
+        ! --- standard colors ---
+! black
+xterm*color0:                        #0D151D
+xterm*color8:                        #525863
+! red
+xterm*color1:                        #87404f
+xterm*color9:                        #AA5063
+! green
+xterm*color2:                        #74934e
+xterm*color10:                       #8DAE65
+! yellow
+xterm*color3:                        #cd9359
+xterm*color11:                       #D9AD81
+! blue
+xterm*color4:                        #615772
+xterm*color12:                       #786D8D
+! magenta
+xterm*color5:                        #783e57
+xterm*color13:                       #9B5070
+! cyan
+xterm*color6:                        #554757
+xterm*color14:                       #715E73
+! white
+xterm*color7:                        #c0a79a
+xterm*color15:                       #D4C3BA
