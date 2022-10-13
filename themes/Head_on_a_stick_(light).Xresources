@@ -3,7 +3,7 @@
 
 ! special
 xterm*.foreground:   #00dd00
-xterm*.background:   [85]#000000
+xterm*.background:   #000000
 xterm*.cursorColor:  #00ff00
 
 ! black
