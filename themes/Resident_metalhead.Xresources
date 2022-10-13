@@ -1,0 +1,39 @@
+! Resident Metalhead
+! Scheme: Resident Metalhead (https://forums.bunsenlabs.org/viewtopic.php?id=206&p=3)
+
+! special
+xterm*cursorColor:  #9b9081
+xterm*background:   #181b20
+xterm*foreground:   #9b9081
+
+! black
+xterm*color0:       #353535
+xterm*color8:       #5f5f5f
+
+! red
+xterm*color1:       #744b40
+xterm*color9:       #785850
+
+! green
+xterm*color2:       #6d6137
+xterm*color10:      #6f6749
+
+! yellow
+xterm*color3:       #765636
+xterm*color11:      #776049
+
+! blue
+xterm*color4:       #61564b
+xterm*color12:      #696057
+
+! magenta
+xterm*color5:       #6b4a49
+*.color13:      #6f5a59
+
+! cyan
+xterm*color6:       #435861
+xterm*color14:      #525f66
+
+! white
+xterm*color7:       #b3b3b3
+xterm*color15:      #cdcdcd
