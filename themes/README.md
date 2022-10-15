@@ -1,3 +1,0 @@
-# WIP
-
-Under construction.
