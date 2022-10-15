@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# dkeg 2014
+# barn
+
+# *background:#131313
+# *foreground:#abacae
+
+echo -en "\e]P0131313"
+echo -en "\e]P154342a"
+echo -en "\e]P23e3329"
+echo -en "\e]P3332F2E"
+echo -en "\e]P43A3E45"
+echo -en "\e]P5443B37"
+echo -en "\e]P6a4a19d"
+echo -en "\e]P7807c75"
+echo -en "\e]P8222222"
+echo -en "\e]P954342a"
+echo -en "\e]PA3e3329"
+echo -en "\e]PB332f2e"
+echo -en "\e]PC3a3e45"
+echo -en "\e]PD443b37"
+echo -en "\e]PEa4a19d"
+echo -en "\e]PF807c75"
