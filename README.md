@@ -15,6 +15,15 @@ Work in progress. How-to is inside the file.
 ## themes
 
 Work in progress.
+Beware clash of lines and expect the output if that happens.
+Explain here how to set one of the themes:
+
+### Using the reference
+
+Text.
+
+### Copy-paste into your existing .Xresources file
+
 
 ## resources
 
