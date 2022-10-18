@@ -1,0 +1,39 @@
+! hellfire
+! Scheme: pyratebeard (http://dotshare.it/dots/8496/)
+
+! special
+*.foreground:   #fbf0d2
+*.background:   #1f1d1b
+*.cursorColor:  #fbf0d2
+
+! black
+*.color0:       #181512
+*.color8:       #454545
+
+! red
+*.color1:       #c94539
+*.color9:       #bb6055
+
+! green
+*.color2:       #85a23d
+*.color10:      #a5a35c
+
+! yellow
+*.color3:       #d47a41
+*.color11:      #d0a845
+
+! blue
+*.color4:       #8b6268
+*.color12:      #aa7f91
+
+! magenta
+*.color5:       #a44f5e
+*.color13:      #756583
+
+! cyan
+*.color6:       #b8a310
+*.color14:      #dad757
+
+! white
+*.color7:       #d3cab3
+*.color15:      #c9b09a

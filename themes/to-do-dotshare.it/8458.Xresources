@@ -1,0 +1,43 @@
+! Omari
+! Scheme: l0bster (http://dotshare.it/dots/8458/)
+         
+! . .-. .        .          
+! |:   :|       _|_         
+! ||   ||.-. .--.|  .-. .--.
+! |:   ;|   )`--.| (.-' |   
+! `-`-' '`-' `--'`-'`--''   
+                           
+*.foreground:   #665c64
+*.background:   #121212
+
+! black
+*.color0:       #2b3135
+*.color8:       #4c5356
+
+! red
+*.color1:       #8fa1b3
+*.color9:       #8fa1b3
+
+! green
+*.color2:       #EC1850
+*.color10:      #EC1850
+
+! yellow
+*.color3:       #4f5b66
+*.color11:      #4f5b66
+
+! blue
+*.color4:       #607a86
+*.color12:      #607a86
+
+! magenta
+*.color5:       #80757e
+*.color13:      #80757e
+
+! cyan
+*.color6:       #B19CD9
+*.color14:      #B19CD9
+
+! white
+*.color7:       #deded6
+*.color15:      #deded6

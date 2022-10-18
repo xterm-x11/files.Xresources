@@ -1,0 +1,50 @@
+!  ▄████▄   █    ██  ██▀███    ██████ ▓█████ ▓█████▄
+! ▒██▀ ▀█   ██  ▓██▒▓██ ▒ ██▒▒██    ▒ ▓█   ▀ ▒██▀ ██▌
+! ▒▓█    ▄ ▓██  ▒██░▓██ ░▄█ ▒░ ▓██▄   ▒███   ░██   █▌
+! ▒▓▓▄ ▄██▒▓▓█  ░██░▒██▀▀█▄    ▒   ██▒▒▓█  ▄ ░▓█▄   ▌
+! ▒ ▓███▀ ░▒▒█████▓ ░██▓ ▒██▒▒██████▒▒░▒████▒░▒████▓
+! ░ ░▒ ▒  ░░▒▓▒ ▒ ▒ ░ ▒▓ ░▒▓░▒ ▒▓▒ ▒ ░░░ ▒░ ░ ▒▒▓  ▒
+!   ░  ▒   ░░▒░ ░ ░   ░▒ ░ ▒░░ ░▒  ░ ░ ░ ░  ░ ░ ▒  ▒
+! ░         ░░░ ░ ░   ░░   ░ ░  ░  ░     ░    ░ ░  ░
+! ░ ░         ░        ░           ░     ░  ░   ░
+! ░                                           ░
+! cursed by pyratebeard (https://git.pyratebeard.net/?p=cursed)
+!  ├─ inspiration from sourcerer by xero (https://sourcerer.xero.nu)
+!  └─ based on port_royal by pyratebeard (http://dotshare.it/dots/8444/)
+
+! special
+*.foreground:   #c2c2b0
+*.background:   #202020
+*.cursorColor:  #c2c2b0
+
+! black
+*.color0:       #151515
+*.color8:       #3f3639
+
+! red
+*.color1:       #b44242
+*.color9:       #dc7671
+
+! green
+*.color2:       #95a328
+*.color10:      #e8e85a
+
+! yellow
+*.color3:       #e1c135
+*.color11:      #9e9052
+
+! blue
+*.color4:       #60928f
+*.color12:      #76c39b
+
+! magenta
+*.color5:       #7c435a
+*.color13:      #86596c
+
+! cyan
+*.color6:       #a48b4a
+*.color14:      #ceb34f
+
+! white
+*.color7:       #c2c2b0
+*.color15:      #b0afa8

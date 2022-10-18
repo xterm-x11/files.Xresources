@@ -1,0 +1,39 @@
+! TN_Blue
+! Scheme: themooleman (http://dotshare.it/dots/8467/)
+
+! special
+*.foreground:   #ffffff
+*.background:   #262934
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #000000
+*.color8:       #555753
+
+! red
+*.color1:       #fb4343
+*.color9:       #fc7979
+
+! green
+*.color2:       #4e9a06
+*.color10:      #8fe811
+
+! yellow
+*.color3:       #c4a000
+*.color11:      #fce94f
+
+! blue
+*.color4:       #afd2ff
+*.color12:      #7baee3
+
+! magenta
+*.color5:       #85678f
+*.color13:      #ec76ff
+
+! cyan
+*.color6:       #08c5c7
+*.color14:      #74eeee
+
+! white
+*.color7:       #d3d7cf
+*.color15:      #eeeeec

@@ -1,0 +1,39 @@
+! Awai
+! Scheme: wakamiya (http://dotshare.it/dots/8433/)
+
+! special
+*.foreground:   #747b9d
+*.background:   #fcf4e0
+*.cursorColor:  #747b9d
+
+! black
+*.color0:       #3e4656
+*.color8:       #3e4656
+
+! red
+*.color1:       #d5445e
+*.color9:       #d5445e
+
+! green
+*.color2:       #c1db42
+*.color10:      #c1db42
+
+! yellow
+*.color3:       #fad850
+*.color11:      #fad850
+
+! blue
+*.color4:       #4c50a2
+*.color12:      #4c50a2
+
+! magenta
+*.color5:       #aa399c
+*.color13:      #aa399c
+
+! cyan
+*.color6:       #45d6b5
+*.color14:      #45d6b5
+
+! white
+*.color7:       #627588
+*.color15:      #627588
