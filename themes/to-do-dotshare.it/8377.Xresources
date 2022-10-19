@@ -1,0 +1,39 @@
+! Violet crimes
+! Scheme: torvim (http://dotshare.it/dots/8377/)
+
+! special
+*.foreground:   #e3e3e3
+*.background:   #1a2026
+*.cursorColor:  #e3e3e3
+
+! black
+*.color0:       #c3ccdf
+*.color8:       #a3b7d4
+
+! red
+*.color1:       #d1afaf
+*.color9:       #d69090
+
+! green
+*.color2:       #dcabce
+*.color10:      #c3c897
+
+! yellow
+*.color3:       #c7a084
+*.color11:      #b4aee3
+
+! blue
+*.color4:       #91b2cd
+*.color12:      #9bacba
+
+! magenta
+*.color5:       #bfa8c7
+*.color13:      #819ea2
+
+! cyan
+*.color6:       #5e8d87
+*.color14:      #cf9086
+
+! white
+*.color7:       #707880
+*.color15:      #c5c8c6

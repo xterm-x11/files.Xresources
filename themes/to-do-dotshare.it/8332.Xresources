@@ -1,0 +1,39 @@
+! Wysard
+! Scheme: pyratebeard (http://dotshare.it/dots/8332/)
+
+! special
+*.foreground:   #abc0c5
+*.background:   #111111
+*.cursorColor:  #abc0c5
+
+! black
+*.color0:       #222222
+*.color8:       #444444
+
+! red
+*.color1:       #8b5c51
+*.color9:       #8b5c51
+
+! green
+*.color2:       #5c8676
+*.color10:      #5c8676
+
+! yellow
+*.color3:       #a29076
+*.color11:      #a29076
+
+! blue
+*.color4:       #4f8396
+*.color12:      #4f8396
+
+! magenta
+*.color5:       #776e89
+*.color13:      #776e89
+
+! cyan
+*.color6:       #5a7588
+*.color14:      #5a7588
+
+! white
+*.color7:       #abc0c5
+*.color15:      #abc0c5
