@@ -1,0 +1,43 @@
+! LSD
+! Scheme: Ogis1975 (http://dotshare.it/dots/8265/)
+
+URxvt*.foreground:  ##90d9d5
+URxvt*.background:   #03090A
+URxvt*.cursorColor: #90d9d5
+!
+!Black
+URxvt*color0:	#03090A
+URxvt*color8:	#649795
+
+!Red
+URxvt*color1:	#2FA154
+URxvt*color9:	#2FA154
+
+!Green
+URxvt*color2:	#129E61
+URxvt*color10:	#129E61
+
+!Yellow
+URxvt*color3:	#21D272
+URxvt*color11:	#21D272
+
+!Blue
+URxvt*color4:	#0A1E96
+URxvt*color12:	#0A1E96
+
+!Magenta
+URxvt*color5:	#265EBC
+URxvt*color13:	#265EBC
+
+!Cyan
+URxvt*color6:	#C559DF
+URxvt*color14:	#C559DF
+
+!White
+URxvt*color7:	#90d9d5
+URxvt*color15:	#90d9d5
+!
+! Bold, Italic, Underline
+URxvt*.colorBD:     #845a5e
+!*.colorIT:
+!*.colorUL:

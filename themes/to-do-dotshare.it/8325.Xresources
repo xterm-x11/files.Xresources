@@ -1,0 +1,21 @@
+! xubuntu dark
+! Scheme: klaus (http://dotshare.it/dots/8325/)
+
+URxvt.background: #131926
+URxvt.foreground: #b7b7b7
+URxvt.color0: #000000
+URxvt.color1: #aa0000
+URxvt.color2: #44aa44
+URxvt.color3: #aa5500
+URxvt.color4: #0039aa
+URxvt.color5: #aa22aa
+URxvt.color6: #1a92aa
+URxvt.color7: #aaaaaa
+URxvt.color8: #777777
+URxvt.color9: #ff8787
+URxvt.color10: #4ce64c
+URxvt.color11: #ded82c
+URxvt.color12: #295fcc
+URxvt.color13: #cc58cc
+URxvt.color14: #4ccce6
+URxvt.color15: #ffffff

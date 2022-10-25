@@ -1,0 +1,28 @@
+! ginseng
+! Scheme: wulf (http://dotshare.it/dots/8246/)
+! X Resources: Generated with Hodler (http://github.com/matttproud/hodler)
+
+*color0: #2b282b
+*color1: #e06e94
+*color2: #45b49a
+*color3: #e5c3ce
+*color4: #66998c
+*color5: #7c7d82
+*color6: #66988b
+*color7: #b9bdc4
+*color8: #2a282a
+*color9: #e06e94
+*color10: #83d0be
+*color11: #e5c3ce
+*color12: #62656c
+*color13: #44b399
+*color14: #004b32
+*color15: #d4d8e0
+*background: #000000
+*foreground: #cdd0d8
+*cursorColor: #c7c7c7
+! See "highlightColorMode" and "hm" options in XTerm manual page.
+*highlightTextColor: #000000
+*highlightColor: #c1ddff
+! No support for cursor text coloring; would be #feffff.
+! No support for bold coloring; would be #feffff.

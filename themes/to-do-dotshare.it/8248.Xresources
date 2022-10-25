@@ -1,0 +1,28 @@
+! Crystal Cave
+! Scheme: wulf (http://dotshare.it/dots/8248/)
+! X Resources: Generated with Hodler (http://github.com/matttproud/hodler)
+
+*color0: #325a5b
+*color1: #4f7d8b
+*color2: #8dbd9d
+*color3: #6c8e89
+*color4: #3a9283
+*color5: #377f71
+*color6: #449b86
+*color7: #bfe5e4
+*color8: #335b5b
+*color9: #8eb4a9
+*color10: #7faa8d
+*color11: #afd4cf
+*color12: #82c2c2
+*color13: #67929b
+*color14: #617c7c
+*color15: #abcdcd
+*background: #000000
+*foreground: #c8e0dd
+*cursorColor: #c7c7c7
+! See "highlightColorMode" and "hm" options in XTerm manual page.
+*highlightTextColor: #000000
+*highlightColor: #c1ddff
+! No support for cursor text coloring; would be #feffff.
+! No support for bold coloring; would be #feffff.

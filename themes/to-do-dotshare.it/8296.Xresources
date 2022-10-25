@@ -1,0 +1,20 @@
+! cyb
+! Scheme: skam (http://dotshare.it/dots/8296/)
+
+!colours
+*color0: rgb:4f/4f/4f
+*color1: rgb:a9/17/6f
+*color2: rgb:16/6b/8c
+*color3: rgb:7b/4f/85
+*color4: rgb:00/84/86
+*color5: rgb:c7/81/d1
+*color6: rgb:90/83/9c
+*color7: rgb:dd/dd/dd
+*color8: rgb:5d/5d/5d
+*color9: rgb:bd/2b/83
+*color10: rgb:2a/7f/a0
+*color11: rgb:8f/63/99
+*color12: rgb:06/98/9a
+*color13: rgb:db/95/e5
+*color14: rgb:a4/97/b0
+*color15: rgb:f8/f8/f8

@@ -1,0 +1,38 @@
+! Picomelon
+! Scheme: wulf (http://dotshare.it/dots/1560/)
+
+*.foreground:   #f8d8f8
+*.background:   #010101
+*.cursorColor:  #c7c7c7
+
+! black
+*.color0:       #1d2b53
+*.color8:       #1d2b53
+
+! red
+*.color1:       #ff004d
+*.color9:       #ff004d
+
+! green
+*.color2:       #83769c
+*.color10:      #83769c
+
+! yellow
+*.color3:       #ffccaa
+*.color11:      #ffccaa
+
+! blue
+*.color4:       #29adff
+*.color12:      #29adff
+
+! magenta
+*.color5:       #7e2553
+*.color13:      #7e2553
+
+! cyan
+*.color6:       #ff77a8
+*.color14:      #ff77a8
+
+! white
+*.color7:       #fff1e8
+*.color15:      #fff1e8
