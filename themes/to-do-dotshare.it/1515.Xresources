@@ -1,0 +1,39 @@
+! perfect blue
+! Scheme: bearz42 (http://dotshare.it/dots/1515/)
+
+! special
+*.foreground:   #baacc5
+*.background:   #666666
+*.cursorColor:  #4c5068
+
+! black
+*.color0:       #323c51
+*.color8:       #404057
+
+! red
+*.color1:       #d7a0a0
+*.color9:       #a67070
+
+! green
+*.color2:       #88977c
+*.color10:      #b6b992
+
+! yellow
+*.color3:       #de935f 
+*.color11:      #ccbe9e
+
+! blue
+*.color4:       #6b96a7
+*.color12:      #7ba0c0
+
+! magenta
+*.color5:       #553e62
+*.color13:      #c79bd4
+
+! cyan
+*.color6:       #5d817d
+*.color14:      #709e90
+
+! white
+*.color7:       #8e8e86
+*.color15:      #b3cbc9

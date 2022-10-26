@@ -1,0 +1,39 @@
+! Leviathan
+! Scheme: wulf (http://dotshare.it/dots/1479/)
+
+*.foreground:   #e2eee9
+*.background:   #281c23
+*.cursorColor:  #f2e5cf
+
+! black
+*.color0:       #4f3645
+*.color8:       #533948
+
+! red
+*.color1:       #c7415a
+*.color9:       #ff7d8e
+
+! green
+*.color2:       #987dd8
+*.color10:      #987dd8
+
+! yellow
+*.color3:       #f7e2c8
+*.color11:      #fbe9d8
+
+! blue
+*.color4:       #9b9cbc
+*.color12:      #a9aee3
+
+! magenta
+*.color5:       #c16ab1
+*.color13:      #ee82c9
+
+! cyan
+*.color6:       #8a97bd
+*.color14:      #b2bee0
+
+! white
+*.color7:       #fbf2e9
+*.color15:      #fbf2e9
+x

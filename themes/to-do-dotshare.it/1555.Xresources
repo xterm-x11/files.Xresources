@@ -1,0 +1,38 @@
+! BladeRunner
+! Scheme: wulf (http://dotshare.it/dots/1555/)
+
+*.foreground:   #845a5e
+*.background:   #24191a
+*.cursorColor:  #8b80cf
+
+! black
+*.color0:       #5a3e42
+*.color8:       #5a3e42
+
+! red
+*.color1:       #f05d4e
+*.color9:       #f09f8d
+
+! green
+*.color2:       #a26e4d
+*.color10:      #a2968f
+
+! yellow
+*.color3:       #e58d3c
+*.color11:      #e5b78d
+
+! blue
+*.color4:       #e96332
+*.color12:      #e99b7e
+
+! magenta
+*.color5:       #815a18
+*.color13:      #816e4d
+
+! cyan
+*.color6:       #eab429
+*.color14:      #eacd81
+
+! white
+*.color7:       #e5e0d5
+*.color15:      #e5e0d5

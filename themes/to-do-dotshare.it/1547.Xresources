@@ -1,0 +1,39 @@
+! Its_autumn
+! Scheme: sicksince (http://dotshare.it/dots/1547/)
+
+! special
+*.foreground:   #F9D792
+*.background:   #301D14
+*.cursorColor:  #ca8d67
+
+! black
+*.color0:       #d8a396
+*.color8:      #e54507
+
+! red
+*.color1:       #606432
+*.color9:       #b4c02d
+
+! green
+*.color2:       #9c5033
+*.color10:       #666666
+
+! yellow
+*.color3:       #ad2f1d
+*.color11:      #b04f41
+
+! blue
+*.color4:       #662038
+*.color12:      #81485c
+
+! magenta
+*.color5:       #6d826f
+*.color13:      #6d826f
+
+! cyan
+*.color6:       #ca8d67
+*.color14:      #ca8d67
+
+! white
+*.color7:       #9c6a5e
+*.color15:      #f4c0b2

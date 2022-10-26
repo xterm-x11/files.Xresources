@@ -1,0 +1,38 @@
+! Cadian
+! Scheme: wulf (http://dotshare.it/dots/1481/)
+
+*.foreground:   #fbf7f0
+*.background:   #1f1f19
+*.cursorColor:  #f2e5cf
+
+! black
+*.color0:       #393a2f
+*.color8:       #393a2f
+
+! red
+*.color1:       #a5755a
+*.color9:       #c2896a
+
+! green
+*.color2:       #948f51
+*.color10:      #b8b265
+
+! yellow
+*.color3:       #cbbca6
+*.color11:      #e1d0b8
+
+! blue
+*.color4:       #6f7b75
+*.color12:      #a0b0a8
+
+! magenta
+*.color5:       #906638
+*.color13:      #b37f46
+
+! cyan
+*.color6:       #686855
+*.color14:      #8d8d73
+
+! white
+*.color7:       #fbf2e9
+*.color15:      #fbf2e9
