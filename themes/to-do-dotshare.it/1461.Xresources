@@ -1,0 +1,39 @@
+! Gramfel
+! Scheme: wulf (http://dotshare.it/dots/1461/)
+
+! special
+*.foreground:   #D0C868
+*.background:   #56495D
+*.cursorColor:  #D0C868
+
+! black
+*.color0:       #977199
+*.color8:       #715573
+
+! red
+*.color1:       #F38FAE
+*.color9:       #FFB8CB
+
+! green
+*.color2:       #EBFBC0
+*.color10:      #EBFBC0
+
+! yellow
+*.color3:       #F4C17D
+*.color11:      #FFF8AF
+
+! blue
+*.color4:       #509FE1
+*.color12:      #7CBBE5
+
+! magenta
+*.color5:       #BE90CD
+*.color13:      #BF91CE
+
+! cyan
+*.color6:       #C1DAFD
+*.color14:      #C6E9F7
+
+! white
+*.color7:       #FCDDC4
+*.color15:      #FCDDC4

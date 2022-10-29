@@ -1,0 +1,37 @@
+! sugarcane
+! emilio (http://dotshare.it/dots/1079/)
+
+*background:	#CDCDBC
+*foreground:	#323243
+!black
+*color0:		#000000
+! dark gray
+*color8:		#404040
+! dark red
+*color1:		#c16666
+! red
+*color9:		#ff6e6e
+! dark green
+*color2:		#356d35
+! green
+*color10:		#81ba81
+! dark yellow
+*color3:		#b29300
+! yellow
+*color11:		#ffd300
+! dark blue
+*color4:		#4e4eb2
+! blue
+*color12:		#7070ff
+! dark magenta
+*color5:		#c184c1
+! magenta
+*color13:		#ffc0ff
+! dark cyan
+*color6:		#3c8484
+! cyan
+*color14:		#89e5e5
+! light gray
+*color7:		#b2b2b2
+! white
+*color15:		#000000

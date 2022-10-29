@@ -1,0 +1,41 @@
+! Galm-Blue
+! unMurtal (http://dotshare.it/dots/1084/)
+
+! special
+*.foreground:   #C4C4C4
+*.background:   #2F343F
+*.cursorColor:  #7ea2b4
+*.color0:       #161b1d
+*.color8:       #3A3D3F
+*.color1:       #64B2DB
+*.color9:       #64B2DB
+*.color2:       #64B2DB
+*.color10:      #64B2DB
+*.color3:       #64B2DB
+*.color11:      #64B2DB
+*.color4:       #64B2DB
+*.color12:      #64B2DB
+*.color5:       #64B2DB
+*.color13:      #64B2DB
+*.color6:       #64B2DB
+*.color14:      #64B2DB
+*.color7:       #C4C4C4
+*.color15:      #C4C4C4
+
+URxvt*loginShell: true
+URxvt*scrollBar: false
+URxvt*internalBorder: 25
+URxvt*font: xft:ohsnap:size=9,xft:Fira Mono:size=9
+URxvt*boldFont: xft:ohsnap:size=9,xft:Fira Mono:size=9
+URxvt.perl-ext-common: default,matcher,tabbedex
+URxvt.url-launcher: firefox
+URxvt.matcher.button: 1
+URxvt.tabbed.new-button: false
+URxvt.tabbed.title: false
+URxvt.tabbed.autohide: true
+URxvt.tabbed.tabbar-bg: 7
+URxvt.tabbed.tab-fg: 7
+URxvt.tabbed.tabbar-fg: 0
+URxvt.tabbed.tab-bg: 0
+URxvt*iconFile: /usr/share/icons/Vivacious-Colors/apps/scalable/utilities-terminal.svg
+URxvt*geometry: 80x30

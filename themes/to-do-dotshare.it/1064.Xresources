@@ -1,0 +1,41 @@
+! In Your Face
+! pyonium (http://dotshare.it/dots/1064/)
+
+! my wallpaper's matching color is #24759f
+
+! special
+*foreground:   #ffffff
+*background:   #172637
+*cursorColor:  #ffffff
+
+! black
+*color0:       #131313
+*color8:       #4b4b4b
+
+! red
+*color1:       #c44949
+*color9:       #ed6b6b
+
+! green
+*color2:       #76c449
+*color10:      #aced6b
+
+! yellow
+*color3:       #c49749
+*color11:      #edb76b
+
+! blue
+*color4:       #4976c4
+*color12:      #6ba1ed
+
+! magenta
+*color5:       #c449c4
+*color13:      #ed6bed
+
+! cyan
+*color6:       #49bac4
+*color14:      #6be2ed
+
+! white
+*color7:       #cfcfcf
+*color15:      #ffffff

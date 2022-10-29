@@ -1,0 +1,31 @@
+! Essa
+! ayush (http://dotshare.it/dots/1361/)
+
+#bgfg
+!*foreground: #FFFFFF
+*foreground: #00ff0c
+*background: #111111
+#black
+*color0: #202020
+*color8: #202020
+#red
+*color1: #F8F8F8
+*color9: #F8F8F8
+#green
+*color2: #AADB0F
+*color10: #AADB0F
+#yellow
+*color3: #F7F7F7
+*color11: #F7F7F7
+#blue
+*color4: #606060
+*color12: #606060
+#magenta
+*color5: #91BA0D
+*color13: #91BA0D
+#cyan
+*color6: #E2E2E2
+*color14: #E2E2E2
+#white
+*color7: #FFFFFF
+*color15: #FFFFFF

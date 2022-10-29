@@ -1,0 +1,33 @@
+! Maroc
+! Gatter (http://dotshare.it/dots/1190/)
+
+*foreground : #BBBBBB
+*background : #565656
+*cursor     : #B1D09A
+
+!black
+color0      : #484848
+color8      : #717171
+!red
+color1      : #B87474
+color9      : #D58989
+!green
+color2      : #789378
+color10     : #92B892
+!yellow
+color3      : #BCBE76
+color11     : #D5D589
+!blue
+color4      : #83839C
+color12     : #9797BF
+!magenta
+color5      : #9B719B
+color13     : #C899C8
+!cyan
+color6      : #829E9E
+color14     : #9CC6C6
+!white
+color7      : #AAAAAA
+color15     : #E4E4E4
+
+! vim: ft=xdefaults

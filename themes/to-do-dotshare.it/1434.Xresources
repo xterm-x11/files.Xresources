@@ -1,0 +1,33 @@
+! Green Goblin
+! Scheme: Gatter (http://dotshare.it/dots/1434/)
+
+*foreground    : #BBBBBB
+*background   : #565656
+*cursor            : #B1D09A
+
+!black
+*color0      : #2B2B2B
+*color8      : #2B2B2B
+!red
+*color1      : #507057
+*color9      : #507057
+!green
+*color2      : #888989
+*color10    : #888989
+!yellow
+*color3      : #679171
+*color11    : #679171
+!blue
+*color4      : #616161
+*color12    : #616161
+!magenta
+*color5      : #81B38C
+*color13    : #81B38C
+!cyan
+*color6      : #3F3F3F
+*color14    : #3F3F3F
+!white
+*color7      : #97D5A5
+*color15    : #97D5A5
+
+! vim: ft=xdefaults

@@ -1,0 +1,90 @@
+! love green
+! Scheme: kenty (http://dotshare.it/dots/1423/)
+
+rofi.location:          0
+rofi.color-enabled:     true
+!                       'background', 'border'
+rofi.color-window:      argb:dc111111, argb:dc111111
+! State:                'bg',          'fg',   'bgalt',       'hlbg',        'hlfg'
+rofi.color-normal:      argb:00333333, #ffffff, argb:00333333, argb:00333333, argb:ffefa211
+rofi.color-urgent:      argb:00333333, #ffffff, argb:00333333, argb:00333333, argb:ffefa211
+rofi.color-active:      argb:00333333, #ffffff, argb:00333333, argb:00333333, argb:ffefa211
+rofi.separator-style:   dash
+rofi.fullscreen:        true
+rofi.padding:           130
+rofi.hide-scrollbar:    true
+rofi.line-margin:       5
+rofi.fake-transparency: false
+rofi.yoffset:           0
+rofi.xoffset:           0
+rofi.width:             1366
+rofi.opacity:           90
+rofi.font:              SourceCodePro-Regular 12
+
+! Desktop
+Xft.antialias: 1
+Xft.hinting: true
+Xft.hintstyle: hintslight
+Xft.dpi: 100
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+Xcursor.size: 8
+Xft.autohint: 1
+
+! Set the font
+URxvt*cursorBlink: true
+URxvt*buffered: true
+URxvt.font: xft:Terminus:size=8:antialias=true
+URxvt.boldFont: xft:ypn monospace:size=8
+URxvt.letterSpace: -3
+
+! Disable scrollbar
+URxvt.scrollBar: false
+
+! Set terminal padding
+URxvt.internalBorder: 20
+
+! Enables copy/paste with Ctrl-Shift-C/V
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+URxvt.perl-ext-common: default,clipboard
+URxvt.keysym.Shift-Control-C: perl:clipboard:copy
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+
+! special
+*.foreground:   #ffffff
+*.background:   #0a0a0a
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #191919
+*.color8:       #575757
+
+! red
+*.color1:       #001122
+*.color9:       #002446
+
+! green
+*.color2:       #223344
+*.color10:      #384a5b
+
+! yellow
+*.color3:       #556677
+*.color11:      #74818e
+
+! blue
+*.color4:       #113322
+*.color12:      #1e4130
+
+! magenta
+*.color5:       #446655
+*.color13:      #5e7f6e
+
+! cyan
+*.color6:       #5e8d87
+*.color14:      #86a8a4
+
+! white
+*.color7:       #b7b7b7
+*.color15:      #ffffff
+

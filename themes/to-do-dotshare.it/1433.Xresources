@@ -1,0 +1,84 @@
+! back to red we go
+! Scheme: kenty (http://dotshare.it/dots/1433/)
+
+URxvt*scrollBar:     false
+URxvt*scrollBar_right:   false
+
+URxvt*transparent:   false
+
+URxvt*title: urxvt
+URxvt*termName: rxvt-unicode-256color
+URxvt.letterSpace: 1
+
+URxvt.font: xft:inconsolata:size=10,style=Regular
+
+*antialias:  true
+*autohint:  true
+
+rofi.location:          0
+rofi.color-enabled:     true
+!                       'background', 'border'
+rofi.color-window:      argb:ff997733, argb:ff997733, argb:fff4d68c
+
+! State:                'bg',          'fg',   'bgalt',       'hlbg',        'hlfg'
+rofi.color-normal:      argb:00333333, #ffffff, argb:00333333, argb:00333333, argb:fff4d68c
+rofi.color-urgent:      argb:00333333, #ffffff, argb:00333333, argb:00333333, argb:fff4d68c
+rofi.color-active:      argb:00333333, #ffffff, argb:00333333, argb:00333333, argb:fff4d68c
+rofi.separator-style:   solid
+rofi.fullscreen:        true
+rofi.padding:           130
+rofi.hide-scrollbar:    true
+rofi.line-margin:       5
+rofi.fake-transparency: true
+rofi.yoffset:           0
+rofi.xoffset:           0
+rofi.width:             1366
+rofi.opacity:           90
+rofi.font:              Roboto Mono 12
+
+Xft.autohint: 1
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintslight
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+
+
+
+! special
+*.foreground:   #ffffff
+*.background:   #1e1e1e
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #222222
+*.color8:       #333333
+
+! red
+*.color1:       #601809
+*.color9:       #601809
+
+! green
+*.color2:       #883322
+*.color10:      #883322
+
+! yellow
+*.color3:       #ab5341
+*.color11:      #ab5341
+
+! blue
+*.color4:       #d18170
+*.color12:      #d18170
+
+! magenta
+*.color5:       #ab5341
+*.color13:      #ab5341
+
+! cyan
+*.color6:       #883322
+*.color14:      #883322
+
+! white
+*.color7:       #ffffff
+*.color15:      #ffffff

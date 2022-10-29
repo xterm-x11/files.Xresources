@@ -1,0 +1,107 @@
+! Pumpkin Spice
+! Mafia (http://dotshare.it/dots/1072/)
+
+!!!!!!! Muh(fia
+!!!! X
+! Resources
+!!!! Brah
+!WE WANT DA FONT
+URxvt.font:             -beastie-gohufontmod11-*-*-*-*-11-*-100-*-*-*-iso8859-1
+URxvt.boldFont:         -beastie-gohufontmod11-*-*-*-*-11-*-100-*-*-*-iso8859-1
+
+! cause shell to be started as login shell
+URxvt*loginShell: true
+
+! do not scroll with output
+ URxvt*scrollTtyOutput: false
+
+! scroll in relation to buffer (with mouse scroll or Shift+Page Up)
+URxvt*scrollWithBuffer: true
+
+! scroll back to the bottom on keypress
+URxvt*scrollTtyKeypress: true
+
+!  turn off scrollbar
+URxvt.scrollBar: false
+
+! clickable URLS please
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: firefox
+URxvt.matcher.button: 1
+URxvt.colorUL: #7ECCB2
+
+!Misc. settings, tired of explaining and talking to myself
+URxvt.imLocale: en_US.UTF-8
+URxvt.saveLines: 512
+URxvt.colorBD: #857672
+URxvt.colorIT: #bbbbbb
+URxvt.cursorBlink: false
+URxvt.cursorColor: #ff8939
+URxvt.cursorColor2: #121212
+
+!SCHEME FROM THE GOD Thayer
+! -- by Thayer -- !
+
+*foreground: #ECE8CF
+*background: #2D2D2D
+!black
+*color0:     #393939
+*color8:     #474747
+!!red
+*color1:     #EE9379
+*color9:     #FF8D80
+!!green
+*color2:     #E2FFC7
+*color10:    #DBFFB3
+!!yellow
+*color3:     #FFFFB9
+*color11:    #FFBE64
+!!blue
+*color4:     #EDE7B4
+*color12:    #E15848
+!!magenta
+*color5:     #E2BEB5
+*color13:    #94C7B5
+!!cyan
+*color6:     #6EB49D
+*color14:    #A2C3CC
+!!white
+*color7:     #dddddd
+*color15:    #dddddd
+
+!XFT settings
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: full
+Xft.hintstyle: hintslight
+Xft.rgba: rgb
+
+!MK Madness
+
+xmessage*form.okay.shapeStyle: rectangle
+xmessage*form.okay.background: IndianRed
+xmessage*form.okay.foreground: rgb:e/b/b
+xmessage*message*background: ivory3
+xmessage*background: gray85
+xmessage*foreground: gray15
+xmessage*Scrollbar.width: 1
+xmessage*Scrollbar.borderWidth: 0
+xmessage*Text.?.cursorColor: rgb:d/5/5
+xmessage*Text.borderColor: gray65
+xmessage*Text*background: gray95
+xmessage*Command.highlightThickness: 1
+xmessage*Command.internalWidth: 5
+xmessage*Command.internalHeight: 3
+xmessage*Command.borderColor: gray40
+xmessage*Command.shapeStyle: Rectangle
+xmessage*Command.background: gray80
+xmessage*font: -*-uushi-*-*-*-*-*-*-*-*-*-*-*-*
+
+! rxvt-unicode
+URxvt.urgentOnBell:  true
+! Xclock Colors
+XClock.Clock.majorColor:  #FFBE64
+XClock.Clock.minorColor:  #FF8D80
+XClock.Clock.hourColor:   #202020
+XClock.Clock.secondColor: #202020
+XClock.Clock.minuteColor: #202020

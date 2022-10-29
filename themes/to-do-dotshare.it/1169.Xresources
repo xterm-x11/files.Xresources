@@ -1,0 +1,47 @@
+! ii system info from http://arpinux.org/
+! mgarbvs (http://dotshare.it/dots/1169/)
+
+#/bin/bash
+
+    echo
+    echo -e "${red}                                                           ┌─────────────────────────┐"
+    echo -e "${red}┌──────────────────────────────────────────────────────────┤$NC      Debian InfoBox    ${red} │"
+    echo -e "${red}│          ┌──────────────────┐                            └────────────┬────────────┘"
+    echo -e "${red}├──────────┤${bblue} IBM ThinkPad x31${red} ├─────────────────────────────────────────┘"
+    echo -e "${red}│          └──────────────────┘"
+    echo -e "${red}│${blue}┌── agenda ────────────────────────────────────────────────────────────"
+    echo -e "${red}│${blue}└$NC `date +'%A, %B %-d, %Y -- %I:%M %P'`"
+    echo -e "${red}│${bblue}┌── processor information ─────────────────────────────────────────────"
+    echo -e "${red}│${bblue}└$NC `core`"
+    echo -e "${red}│${bblue}┌── graphic information ───────────────────────────────────────────────"
+    echo -e "${red}│${bblue}└$NC`graph`"
+    echo -e "${red}│${bblue}┌── ethernet information ──────────────────────────────────────────────"
+    echo -e "${red}│${bblue}└$NC`ethcard`"
+    echo -e "${red}│${bblue}┌── wireless information ──────────────────────────────────────────────"
+    echo -e "${red}│${bblue}└$NC`wfcard`"
+    echo -e "${red}│          ┌────────────────────────────┐"
+    echo -e "${red}├──────────┤${bgreen} Debian GNU/Linux livarp 04${red} │"
+    echo -e "${red}│          └────────────────────────────┘"
+    echo -e "${red}│${yellow}┌── kernel information ────────────────────────────────────────────────"
+    echo -e "${red}│${yellow}└$NC `uname -a`"
+    echo -e "${red}│${bcyan}┌── machine stats ─────────────────────────────────────────────────────"
+    echo -e "${red}│${bcyan}└$NC`uptime`"
+    echo -e "${red}│${bgreen}┌── memory stats ──────────────────────────────────────────────────────"
+    echo -e "${red}│${bgreen}└$NC`mmuse`"
+    echo -e "${red}│${green}┌── disk stats ────────────────────────────────────────────────────────"
+    echo -e "${red}│${green}└$NC`dduse`"
+    echo -e "${red}│${blue}┌── batt stats ────────────────────────────────────────────────────────"
+    echo -e "${red}│${blue}└$NC`batt`"
+    echo -e "${red}│${yellow}┌── sensors ───────────────────────────────────────────────────────────"
+    echo -e "${red}│${yellow}└$NC`temps`"
+    echo -e "${red}│${cyan}┌── local IP address ──────────────────────────────────────────────────"
+    echo -e "${red}│${cyan}└$NC`my_lip`"
+    echo -e "${red}│${cyan}┌── external IP address ───────────────────────────────────────────────"
+    echo -e "${red}│${cyan}└$NC`my_eip`"
+    echo -e "${red}│          ┌──────────────────┐"
+    echo -e "${red}├──────────┤${bcyan} Open Connections${red} │"
+    echo -e "${red}│          └──────────────────┘"
+    echo -e "${red}│$NC `oports`"
+    echo -e "${red}└────────────────────────────────────────────────────────────────────┤│"
+
+

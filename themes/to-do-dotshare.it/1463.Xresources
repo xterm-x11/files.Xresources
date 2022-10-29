@@ -1,0 +1,39 @@
+! Cremsody
+! Scheme: dontget (http://dotshare.it/dots/1463/)
+! Stolen from - https://github.com/emacsfodder/emacs-theme-creamsody
+
+*.foreground:   #f2e5cf
+*.background:   #282C32
+*.cursorColor:  #f2e5cf
+
+! black
+*.color0:       #202327
+*.color8:       #000000
+
+! red
+*.color1:       #f73028
+*.color9:       #f73027
+
+! green
+*.color2:       #7fbfc9
+*.color10:      #75bec9
+
+! yellow
+*.color3:       #87c8bf
+*.color11:      #7dc8be
+
+! blue
+*.color4:       #4d9caf
+*.color12:      #459baf
+
+! magenta
+*.color5:       #aca8bf
+*.color13:      #a5a0bf
+
+! cyan
+*.color6:       #2bccd4
+*.color14:      #49d7e4
+
+! white
+*.color7:       #efe0c3
+*.color15:      #fdf3c3
