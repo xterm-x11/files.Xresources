@@ -1,0 +1,39 @@
+! Night owl
+! Scheme: Arthur Câmara (https://github.com/alochaus/night-owl-xresources-theme/blob/master/Xresources)
+
+! special
+xterm*cursorColor:  #d6dee
+xterm*background:   #011627
+xterm*foreground:   #d6deebb
+
+! black
+xterm*color0:       #011627
+xterm*color8:       #575656
+
+! red
+xterm*color1:       #ef5350
+xterm*color9:       #ef5350
+
+! green
+xterm*color2:       #22da6e
+xterm*color10:      #22da6e
+
+! yellow
+xterm*color3:       #addb67
+xterm*color11:      #ffeb95
+
+! blue
+xterm*color4:       #82aaff
+xterm*color12:      #82aaff
+
+! magenta
+xterm*color5:       #c792ea
+xterm*color13:      #c792ea
+
+! cyan
+xterm*color6:       #21c7a8
+xterm*color14:      #7fdbca
+
+! white
+xterm*color7:       #ffffff
+xterm*color15:      #ffffff
