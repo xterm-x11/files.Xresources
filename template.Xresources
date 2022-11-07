@@ -1,3 +1,5 @@
 Template
 
-XTerm*eightBitInput: false ! See https://github.com/MidnightCommander/mc/tree/master/contrib
+XTerm*eightBitInput: false
+! See https://github.com/MidnightCommander/mc/tree/master/contrib
+
