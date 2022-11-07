@@ -1,0 +1,44 @@
+! confetti
+! masterquiroga (http://dotshare.it/dots/991/)
+
+!
+!
+! c o n f e t t i
+!
+!
+! vim: set filetype=xdefaults :
+*foreground: #FFFFFF
+*background: #2D2D2D
+
+!BLK
+*color0:     #1A1A1A
+*color8:     #686868
+
+!RED
+*color1:     #FE8181
+*color9:     #FB9F9F
+
+!GRN
+*color2:     #35BF5C
+*color10:    #6BD689
+
+!YEL
+*color3:     #FFF373
+*color11:    #FEF3B2
+
+!BLU
+*color4:     #63ACE5
+*color12:    #ADCBE3
+
+!MAG
+*color5:     #AC7BDE
+*color13:    #E5B0FF
+
+!CYN
+*color6:     #5DCCC1
+*color14:    #96EAD7
+
+!WHT
+*color7:     #D6D6D6
+*color15:    #FFFFFF
+

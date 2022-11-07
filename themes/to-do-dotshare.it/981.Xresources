@@ -1,0 +1,76 @@
+! nelongso
+! SevenChord (http://dotshare.it/dots/981/)
+
+!Foreground & Background
+URxvt.background: 	  	#121419
+URxvt.foreground:  	  	#999CA1
+
+!Misc
+URxvt*highlightColor:     	#757F8E
+URxvt*highlightTextColor: 	#15171A
+URxvt*cursorColor:        	#758A8E
+URxvt*pointerColor:       	#999CA1
+URxvt*colorBD:            	#B8BCC2
+URxvt*colorUL:            		#B59279
+URxvt*underlineColor:     	#B6937A
+
+!Black
+URxvt*color0:           	  	#505152
+URxvt*color8:             		#7C7D7E
+!Red
+URxvt*color1:             		#B63F53
+URxvt*color9:             		#E8909B
+!Green
+URxvt*color2:             		#51997A
+URxvt*color10:            		#9EDCBB
+!Yellow
+URxvt*color3:             		#B27B42
+URxvt*color11:            		#DCC58F
+!Blue
+URxvt*color4:             		#5C95B3
+URxvt*color12:            		#A7C8D4
+!Magenta
+URxvt*color5:             		#B85A86
+URxvt*color13:            		#D9A4C8
+!Cyan
+URxvt*color6:             		#83A6A7
+URxvt*color14:            		#BBD7D2
+!White
+URxvt*color7:             		#A4A6A7
+URxvt*color15:            		#E8E6E4
+
+
+! fading options
+!URxvt.fadeColor: #cdcdbb
+!URxvt.fading: 50
+
+! transparency settings
+!URxvt.transparent: true
+!URxvt.shading: 130
+!URxvt.tintColor: #cdcdbb
+
+! font
+URxvt.font: xft:Nimbus Sans:pixelsize=9:style=bold,xft:Nimbus Sans CLM:style=bold
+
+! scrollbar
+URxvt.scrollBar: off
+
+! link handing
+URxvt.perl-ext:      default,url-select
+URxvt.keysym.M-u:    perl:url-select:select_next
+URxvt.urlLauncher:   firefox
+URxvt.underlineURLs: true
+
+! fonts to choose
+URxvt.keysym.M-C-0x37: command:\033]710;-*-bitocra7-*,xft:Miriam Mono CLM:style=bold\007
+URxvt.keysym.M-C-0x31: command:\033]710;xft:bitocrafull,xft:Miriam Mono CLM:style=bold\007
+URxvt.keysym.M-C-0x33: command:\033]710;xft:bitocra13,xft:Miriam Mono CLM:style=bold\007
+URxvt.keysym.M-C-0x30: command:\033]710;xft:bitbuntufull,xft:Miriam Mono CLM:style=bold\007
+URxvt.keysym.M-C-0x32: command:\033]710;-*-fixed-medium-r-*-*-12-*\007
+URxvt.keysym.M-C-0x36: command:\033]710;xft:5thElementHeb,xft:Miriam Mono CLM:style=bold\007
+URxvt.keysym.M-C-0x35: command:\033]710;-*-5thElementHeb-*\007
+URxvt.keysym.M-C-0x38: command:\033]710;xft:bitocra7Heb,xft:Miriam Mono CLM:style=bold\007
+URxvt.keysym.M-C-u: command:\033]710;xft:Ubuntu Mono:pixelsize=11:style=bold,xft:Miriam Mono CLM:style=bold\007
+URxvt.keysym.M-C-m: command:\033]710;xft:Miriam Mono CLM:pixelsize=20:style=bold\007
+URxvt.keysym.M-C-o: command:\033]710;xft:ocra10:pixelsize=10,xft:Miriam Mono CLM:style=bold\007
+URxvt.keysym.M-C-d: command:\033]710;xft:Dejavu Sans Mono:pixelsize=9:antialias=false,xft:Miriam Mono CLM:style=bold\007

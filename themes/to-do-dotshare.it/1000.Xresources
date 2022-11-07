@@ -1,0 +1,30 @@
+! somewhat solarized
+! tonk (http://dotshare.it/dots/1000/)
+
+*foreground: #bbbbbb
+*background: #112233
+*cursorColor: #bb9900
+!black
+*color0:  #445566
+*color8:  #445566
+!red
+*color1:  #dd3366
+*color9:  #dd3366
+!green
+*color2:  #99aa00
+*color10: #99aa00
+!yellow
+*color3:  #bb9900
+*color11: #bb9900
+!blue
+*color4:  #3399dd
+*color12: #3399dd
+!magenta
+*color5:  #6666dd
+*color13: #6666dd
+!cyan
+*color6:  #339999
+*color14: #339999
+!white
+*color7:  #bbbbbb
+*color15: #bbbbbb

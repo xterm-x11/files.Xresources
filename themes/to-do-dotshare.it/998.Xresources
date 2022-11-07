@@ -1,0 +1,25 @@
+! aout
+! fayesafe (http://dotshare.it/dots/998/)
+
+! Colors
+urxvt.cursorColor: #dccbc2
+urxvt.background: #0d0b0d
+urxvt.foreground: #f3e7c6
+
+urxvt.color0:	#343434
+urxvt.color1:	#ff4500
+urxvt.color2:	#00a86b
+urxvt.color3:	#fe8c68
+urxvt.color4:	#3284be
+urxvt.color5:	#b03060
+urxvt.color6:	#cbcdff
+urxvt.color7:	#e3dac9
+
+urxvt.color8:	#212221
+urxvt.color9:	#df3510
+urxvt.color10:	#03885a
+urxvt.color11:	#de7d55
+urxvt.color12:	#3164ae
+urxvt.color13:	#9a405d
+urxvt.color14:	#abbcde
+urxvt.color15:	#d2ccc8

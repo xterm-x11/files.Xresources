@@ -1,0 +1,32 @@
+! My term colors v2
+! Hund (http://dotshare.it/dots/917/)
+
+! terminal colours
+urxvt.foreground:#CCCCCC
+urxvt.background:#000000
+urxvt*cursorColor:#FDA53C
+
+!black
+urxvt.color0:    #1b1d1e
+urxvt.color8:    #505354
+!red
+urxvt.color1:    #D23D3D
+urxvt.color9:    #E84F4F
+!green
+urxvt.color2:    #82b414
+urxvt.color10:   #b6e354
+!yellow
+urxvt.color3:    #FDA53C
+urxvt.color11:   #FEE763
+!blue
+urxvt.color4:    #4D73AA
+urxvt.color12:   #7391BC
+!magenta
+urxvt.color5:    #624D8F
+urxvt.color13:   #8473A7
+!cyan
+urxvt.color6:    #4D9085
+urxvt.color14:   #73A89F
+!white
+urxvt.color7:    #ccccc6
+urxvt.color15:   #f8f8f2
