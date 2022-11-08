@@ -1,0 +1,70 @@
+! nice neony colors
+! neonfox (http://dotshare.it/dots/792/)
+
+! --- special colors ---
+
+*background: #191919
+*foreground: #d9e6f2
+
+! --- standard colors ---
+
+! black
+*color0: #191919
+
+! bright_black
+*color8: #484848
+
+! red
+*color1: #e07c55
+
+! bright_red
+*color9: #eaa88e
+
+! green
+*color2: #55e07c
+
+! bright_green
+*color10: #8eeaa8
+
+! yellow
+*color3: #b8e055
+
+! bright_yellow
+*color11: #d0ea8e
+
+! blue
+*color4: #7c55e0
+
+! bright_blue
+*color12: #a88eea
+
+! magenta
+*color5: #e055b8
+
+! bright_magenta
+*color13: #ea8ed0
+
+! cyan
+*color6: #55b8e0
+
+! bright_cyan
+*color14: #8ed0ea
+
+! white
+*color7: #cdcdcd
+
+! bright_white
+*color15: #e7e7e7
+
+
+! ------------------------------------------------------------------------------
+! --- end of terminal colors section -------------------------------------------
+! ------------------------------------------------------------------------------
+
+URxvt.scrollBar: false
+URxvt.font: xft:tewi-normal:size=8
+URxvt.perl-ext: default,clipboard,url-select
+URxvt.keysym.C-i: perl:url-select:select_next
+URxvt.url-select.underline: true
+
+Xcursor.theme: whiteglass
