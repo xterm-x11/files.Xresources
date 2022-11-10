@@ -26,7 +26,7 @@ xterm*boldMode: false
 ! Color theme
 
 ! DOSBox
-! https://github.com/xterm-x11/Xresources-files/blob/main/themes/DOSBox.Xresources
+! https://github.com/xterm-x11/files.Xresources/blob/main/themes/DOSBox.Xresources
 xterm*foreground: rgb:a8/a8/a8
 xterm*background: rgb:00/00/00
 xterm*color0: rgb:00/00/00
