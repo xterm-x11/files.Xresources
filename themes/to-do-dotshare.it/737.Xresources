@@ -1,0 +1,74 @@
+! Barrage
+! Shinryuu (http://dotshare.it/dots/737/)
+
+[options]
+resize_grip = false
+scroll_on_output = false
+scroll_on_keystroke = true
+audible_bell = false
+visible_bell = false
+mouse_autohide = false
+allow_bold = false
+dynamic_title = true
+urgent_on_bell = true
+clickable_url = true
+font = berry 9
+scrollback_lines = 1000
+search_wrap = true
+#icon_name = terminal
+geometry = 400x240
+
+# "system", "on" or "off"
+cursor_blink = off
+
+# "block", "underline" or "ibeam"
+cursor_shape = block
+
+# $BROWSER is used by default
+browser = dwb
+
+# word characters used for word selection
+# (default if unset: all graphic non-punctuation/space characters)
+word_chars = -A-Za-z0-9,./?%&#:_=+@~
+
+# set size hints for the window
+size_hints = false
+
+[colors]
+foreground = #839496
+foreground_bold = #eee8d5
+foreground_dim = #888888
+background = #1f1f22
+cursor = #93a1a1S
+
+# if unset, will reverse foreground and background
+highlight = #2f2f2f
+
+# barrage
+color0 = #3a3a3a
+color1 = #8c5b3e
+color2 = #80764d
+color3 = #917154
+color4 = #596875
+color5 = #6e464b
+color6 = #495e61
+color7 = #bcbcaf
+color8 = #505050
+color9 = #9f6744
+color10 = #80785a
+color11 = #917963
+color12 = #656d75
+color13 = #6e5155
+color14 = #525F61
+color15 = #c1c4bc
+
+[hints]
+#font = Monospace 12
+#foreground = #dcdccc
+#background = #3f3f3f
+#padding = 2
+#border = #3f3f3f
+#border_width = 0.5
+#roundness = 2.0
+
+# vim: ft=dosini cms=#%s

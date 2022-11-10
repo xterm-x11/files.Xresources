@@ -1,0 +1,53 @@
+! Empreinte d'érotisme
+! Knakis (http://dotshare.it/dots/704/)
+
+! CONFIGURATION     ! ! ! !
+URxvt*font: xft:Ohsnap:hinting=true:pixelsize=12:antialias=false
+URxvt*boldFont: xft:Ohsnap:style=bold:hinting=true:pixelsize=12:antialias=false
+URxvt*italicFont: xft:Ohsnap:style=italic:hinting=true:pixelsize=12:antialias=false
+URxvt*boldItalicFont: xft:Ohsnap:style=bolditalic:hinting=true:pixelsize=12:antialias=false
+
+URxvt*geometry: 80x25
+URxvt*scrollBar: false
+URxvt*saveLines: 9001
+
+URxvt*cursorBlink: true
+URxvt*cursorUnderline: true
+
+
+
+! COULEURS     ! ! ! !
+URxvt*foreground: #dddddd
+URxvt*background: #151515
+
+! Noir
+URxvt*color0:   #222827
+URxvt*color8:   #5D6F74
+
+! Rouge
+URxvt*color1:   #D5A8E3
+URxvt*color9:   #CD749C
+
+! Vert
+URxvt*color2:   #9C75DD
+URxvt*color10:  #63B0B0
+
+! Jaune
+URxvt*color3:   #9898AE
+URxvt*color11:  #C0C0DD
+
+! Bleu
+URxvt*color4:   #654A96
+URxvt*color12:  #5786BC
+
+! Magenta
+URxvt*color5:   #625566
+URxvt*color13:  #3F3442
+
+! Final Fantasy VI
+URxvt*color6:   #A9D1DF
+URxvt*color14:  #849DA2
+
+! Blanc
+URxvt*color7:   #E6EBE5
+URxvt*color15:  #D9D6CF

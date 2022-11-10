@@ -1,0 +1,37 @@
+! wacol
+! Neuromatic (http://dotshare.it/dots/761/)
+
+*background: #0d0b0d
+*foreground: #f3e7c6
+
+! black 
+*color0: #1e2f41
+*color8: #906b61
+
+! red
+*color1: #9c595b
+*color9: #9c3635
+
+! green
+*color2: #76ab7c
+*color10: #85c28d
+
+! yellow
+*color3: #ffcd71
+*color11: #ffd897
+
+! blue
+*color4: #504887
+*color12: #6d6987
+
+! magenta
+*color5: #9c5464
+*color13: ä9c7576
+
+! cyan
+*color6: #64a89a
+*color14: #90d9d4
+
+! white
+*color7: #b99f8d
+*color15: #f3dcc6

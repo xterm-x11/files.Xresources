@@ -1,0 +1,37 @@
+! muddy
+! rstrcogburn (http://dotshare.it/dots/719/)
+
+*background:#35272a
+*foreground:#c0b18b
+
+!black
+*color0:#35272a
+*color8:#35272a
+
+!red
+*color1:#d17b49
+*color9:#d17b49
+
+!green
+*color2:#6d715e
+*color10:#6d715e
+
+!yellow
+*color3:#7b8748
+*color11:#7b8748
+
+!blue
+*color4:#775759
+*color12:#775759
+
+!magenta
+*color5:#af865a
+*color13:#af865a
+
+!cyan
+*color6:#606392
+*color14:#606392
+
+!white
+*color7:#c0b18b
+*color15:#c0b18b

@@ -1,0 +1,37 @@
+! Fields
+! faldst (http://dotshare.it/dots/728/)
+
+*background: #111111
+*foreground: #D3D3D3
+
+!black
+*color0: #21211F
+*color8: #1F1F21
+
+!red
+*color1: #524139
+*color9: #47362e
+
+!green
+*color2: #2C382A
+*color10: #232E22
+
+!yellow
+*color3: #EC9718
+*color11: #C78016
+
+!blue
+*color4: #394A52
+*color12: #2e3f47
+
+!magenta
+*color5: #80744F
+*color13: #6E664C
+
+!cyan
+*color6: #5A9096
+*color14: #4F7B80
+
+!white
+*color7: #DBD3C8
+*color15: #C8D0DB
