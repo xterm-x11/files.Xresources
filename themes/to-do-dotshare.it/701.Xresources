@@ -1,0 +1,60 @@
+! these are my color
+! wailord (http://dotshare.it/dots/701/)
+
+!------------------------------------------------------------------------------
+! Colors
+
+
+! black
+*color0: #3F5454
+
+! bright_black
+*color8: #425E5E
+
+! red
+*color1: #894862
+
+! bright_red
+*color9: #AA5370
+
+! green
+*color2: #97A87C
+
+! bright_green
+*color10: #97C57C
+
+! yellow
+*color3: #8F8926
+
+! bright_yellow
+*color11: #A49D29
+
+! blue
+*color4: #352D54
+
+! bright_blue
+*color12: #475370
+
+! magenta
+*color5: #7E44A1
+
+! bright_magenta
+*color13: #9853C2
+
+! cyan
+*color6: #298AB5
+
+! bright_cyan
+*color14: #2C94C2
+
+! white
+*color7: #F1F0E5
+
+! bright_white
+*color15: #FAF9ED
+
+!------------------------------------------------------------------------------
+! FG/BG
+
+*background: #F1F0EC
+*foreground: #352D54

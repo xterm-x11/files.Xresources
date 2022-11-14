@@ -1,0 +1,57 @@
+! yeah
+! thesilentone (http://dotshare.it/dots/638/)
+
+! --- special colors ---
+
+*background: #0d1926
+*foreground: #d9e6f2
+
+! --- standard colors ---
+
+! black
+*color0: #3d4956
+
+! bright_black
+*color8: #525e6b
+
+! red
+*color1: #99734d
+
+! bright_red
+*color9: #c7bdb2
+
+! green
+*color2: #33a580
+
+! bright_green
+*color10: #99d4c9
+
+! yellow
+*color3: #66a54d
+
+! bright_yellow
+*color11: #b0d4b2
+
+! blue
+*color4: #6640b2
+
+! bright_blue
+*color12: #b0a5e1
+
+! magenta
+*color5: #994080
+
+! bright_magenta
+*color13: #c7a5c9
+
+! cyan
+*color6: #3373b2
+
+! bright_cyan
+*color14: #99bde1
+
+! white
+*color7: #adb9c6
+
+! bright_white
+*color15: #d9e5f2

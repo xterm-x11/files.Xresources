@@ -1,0 +1,30 @@
+! Vintage colors
+! Eaffon (http://dotshare.it/dots/633/)
+
+urxvt*background: #151515
+urxvt*foreground: #FFFFFF
+
+!black
+*color0:    #2b312e
+*color8:    #3b4b42
+!red
+*color1:     #b4261c
+*color9:     #8f2910
+!green
+*color2:    #6f5f00
+*color10:   #2a4c29
+!yellow
+*color3:    #FD971F
+*color11:   #986826
+!blue
+*color4:    #435e87
+*color12:   #587aa4
+!magenta
+*color5:    #ba666a
+*color13:   #884346
+!cyan
+*color6:    #00a1ae
+*color14:   #7cb997
+!white
+*color7:    #b6c3bc
+*color15:  #9ab3a5
