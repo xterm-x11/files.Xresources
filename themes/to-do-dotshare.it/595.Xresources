@@ -1,0 +1,31 @@
+! Famicom
+! rzrscm (http://dotshare.it/dots/595/)
+
+! FAMICOM
+*.foreground:  #F8D8F8
+*.background:  #010101
+*.cursorColor: #FCFCFC
+! Black + DarkGrey
+*.color0:      #010101
+*.color8:      #787878
+! DarkRed + Red
+*.color1:      #F85898
+*.color9:      #F8A4C0
+! DarkGreen + Green
+*.color2:      #58F898
+*.color10:     #B8F8D8
+! DarkYellow + Yellow
+*.color3:      #9878F8
+*.color11:     #D8B8F8
+! DarkBlue + Blue
+*.color4:      #6888FC
+*.color12:     #B8B8F8
+! DarkMagenta + Magenta
+*.color5:      #F878F8
+*.color13:     #F8B8F8
+!DarkCyan + Cyan
+*.color6:      #00E8D8
+*.color14:     #00FCFC
+! LightGrey + White
+*.color7:      #BCBCBC
+*.color15:     #FCFCFC

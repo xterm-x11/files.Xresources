@@ -1,0 +1,38 @@
+! warm
+! fey (http://dotshare.it/dots/596/)
+
+URxvt.background:    #090201
+URxvt.foreground:    #ff9f64
+
+!Black
+URxvt.color0:	#000000
+URxvt.color8:	#4D0606
+
+!Red
+URxvt.color1:	#A80000
+URxvt.color9:	#ff1d04
+
+!Green
+!Rxvt.color2:	#452f80
+URxvt.color2:	#7D461E
+URxvt.color10:	#FF9500
+
+!Yellow
+URxvt.color3:	#CC4E18
+URxvt.color11:	#FF3700
+
+!Blue
+URxvt.color4:	#6a3d37
+URxvt.color12:	#F07B6C
+
+!Magenta
+URxvt.color5:	#730015
+URxvt.color13:	#CF3030
+
+!Cyan
+URxvt.color6:	#555555
+URxvt.color14:	#cccccc
+
+!White
+URxvt.color7:	#b3b3b3
+URxvt.color15:	#ffffff

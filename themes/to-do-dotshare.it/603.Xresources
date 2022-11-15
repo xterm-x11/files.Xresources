@@ -1,0 +1,34 @@
+! 8bit
+! linuxville (http://dotshare.it/dots/603/)
+
+! black
+*color0:  #504e53
+*color8:  #312f32
+
+! red
+*color1:  #e60005
+*color9:  #c41013
+
+! green
+*color2:  #abaa69
+*color10: #7d7c4e
+
+! yellow
+*color3:  #fddc01
+*color11: #f9b700
+
+! blue
+*color4:  #6fafd2
+*color12: #0071a2
+
+! magenta
+*color5:  #be9dae
+*color13: #8f6e7f
+
+! cyan
+*color6:  #80cef4
+*color14: #74b6d6
+
+! white
+*color7:  #ffffff
+*color15: #c7cfd1
