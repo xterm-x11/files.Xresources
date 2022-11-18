@@ -1,0 +1,38 @@
+! Visibone SemiLight
+! gutterslob (http://dotshare.it/dots/523/)
+
+!FONTS
+URxvt*font:                 xft:Source Code Pro:pixelsize=9:style=Regular
+URxvt*boldFont:             xft:Source Code Pro:pixelsize=9:style=Semibold
+URxvt*letterSpace:          -1
+
+
+!FG+BG
+URxvt*background: 	    #CCCCCC
+URxvt*foreground:  	    #666666
+
+
+!BLACK
+URxvt*color0:               #666666
+URxvt*color8:               #666666
+!RED
+URxvt*color1:               #993366
+URxvt*color9:               #660033
+!GREEN
+URxvt*color2:               #669933
+URxvt*color10:              #336600
+!YELLOW
+URxvt*color3:               #996633
+URxvt*color11:              #663300
+!BLUE
+URxvt*color4:               #336699
+URxvt*color12:              #003366
+!MAGENTA
+URxvt*color5:               #663399
+URxvt*color13:              #330066
+!CYAN
+URxvt*color6:               #339966
+URxvt*color14:              #006633
+!WHITE
+URxvt*color7:               #999999
+URxvt*color15:              #FFFFFF

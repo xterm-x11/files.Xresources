@@ -1,0 +1,127 @@
+! aurore
+! venam (http://dotshare.it/dots/495/)
+
+! --- ~/.Xresources ------------------------------------------------------------
+!
+!
+!
+
+! ! ------------------------------------------------------------------------------
+! ! --- generated with 4bit Terminal Color Scheme Designer -----------------------
+! ! ------------------------------------------------------------------------------
+! ! --- http://ciembor.github.com/4bit -------------------------------------------
+! ! ------------------------------------------------------------------------------
+!
+! ! --- special colors ---
+!
+*background: #222222
+*foreground: #e6e3c6
+!
+! --- standard colors ---
+!
+! black
+*color0: #151515
+!
+! bright_black
+*color8: #3e3c3a
+!
+! red
+*color1: #cc3333
+!
+! bright_red
+*color9: #cc6666
+!
+! green
+*color2: #81ac2b
+!
+! bright_green
+*color10: #9dce3b
+!
+! yellow
+*color3: #cccc33
+!
+! bright_yellow
+*color11: #ffcf6f
+!
+! blue
+*color4: #333399
+!
+! bright_blue
+*color12: #669999
+!
+! magenta
+*color5: #663399
+!
+! bright_magenta
+*color13: #666699
+!
+! cyan
+*color6: #66cc99
+!
+! bright_cyan
+*color14: #99ffcc
+!
+! white
+*color7: #e6e3c6
+!
+! bright_white
+*color15: #EEEEEC
+!
+!
+! ! ------------------------------------------------------------------------------
+! ! --- end of terminal colors section -------------------------------------------
+! ! ------------------------------------------------------------------------------
+!
+!
+
+
+!urxvt fonts:
+URxvt*font: xft:Envy Code R:pixelsize=11
+URxvt*boldfont: xft:Envy Code R:bold:pixelsize=11
+urxvt*letterSpace: 0
+
+!enabling clickable links
+URxvt.perl-ext-common: default,matcher,tabbedex,vtwheel,clipboard
+!tabbed
+URxvt.matcher.button:   1
+URxvt.perl-ext:      default,url-select
+URxvt.keysym.M-u: perl:url-select:select_next
+    URxvt.url-select.launcher:   /usr/bin/icecat -new-tab
+URxvt.url-select.underline: true
+
+!disable the fucking bell
+URxvt.insecure: false
+
+URxvt.keysym.M-c: perl:clipboard:copy
+URxvt.keysym.M-v: perl:clipboard:paste
+
+!urxvt scrolling options and cursor style:
+
+
+URxvt*saveLines: 300000
+URxvt.scrollBar_right: true
+URxvt*scrollstyle:plain
+URxvt*cursorBlink: true
+URxvt*cursorUnderline: true
+URxvt*cursorColor: #4e9a06
+
+!!
+
+URxvt.tabbedex.autohide: yes
+URxvt.tabbedex.tabbar-fg: 2
+URxvt.tabbedex.tabbar-bg: 0
+URxvt.tabbedex.tab-fg:    10
+URxvt.tabbedex.tab-bg:    0
+URxvt.tabbedex.title: yes
+URxvt.tabbedex.new-button:  no
+
+
+urxvt*allow_bold: false
+
+
+!URxvt.transparent: true
+! URxvt.shading: 0 to 99 darkens, 101 to 200 lightens
+!urXVt.shading: 10
+
+! FUll screen
+URxvt.keysym.F11: perl:fullscreen:switch

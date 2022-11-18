@@ -1,0 +1,81 @@
+! Randomness
+! TSFX (http://dotshare.it/dots/360/)
+
+xrenoise.use_xcursors:	1
+xrenoise.display:	:0
+xrenoise.display_resource:	0x00,0x06,0x26,0xB4,0xB2,0x0F,0xEB,0x1B
+xrenoise.executable_path:	/usr/local/bin/renoise-2.7.2
+
+URxvt*loginShell:true
+URxvt*shading:60
+!aterm*background:Black
+!aterm*foreground:White
+URxvt*scrollBar:true
+URxvt*scrollBar_right:true
+URxvt*saveLines:32767
+!aterm*font:*-*-fixed-medium-r-normal--*-140-*-*-*-*-iso8859-1
+
+
+
+URxvt*pointerColor:        green
+URxvt*transparent:          false
+URxvt*shading:              30
+URxvt*fading:              30
+
+!Aterm*textType:            or
+!Aterm*tintingType:         invert
+URxvt*tinting:             magenta
+!Aterm*tinting:             grey40
+
+Aterm*cutchars:             !""$%''()*+,;<>[\]^`{|}
+!Aterm*font: fixed\ 8
+!term*font: -xos4-terminus-medium-r-normal--16-160-72-72-c-80-iso8859-1
+!Aterm*font:                 ter-v16n
+!Aterm*font: -artwiz-smoothansi-*-*-*-*-13-*-*-*-*-*-*-*
+
+!aterm*font:                 ter-v16n
+!aterm*boldFont:             ter-v16n
+
+!USE THIS
+URxvt*font:                 -*-terminus-*-*-*-*-12-*-*-*-*-*-*-*
+URxvt*boldFont:             -*-terminus-*-*-*-*-12-*-*-*-*-*-*-*
+
+URxvt*background: #151515
+
+*foreground: #D7D0C7
+*background: #151515
+!black
+URxvt*color0:     #1F1F1F
+URxvt*color8:     #404040
+!red
+URxvt*color1:     #911C19
+URxvt*color9:     #9B2724
+!green
+URxvt*color2:     #586B33
+URxvt*color10:    #5E793F
+!yellow
+URxvt*color3:     #B1B863
+URxvt*color11:    #C0CA6E
+!blue
+URxvt*color4:     #3F5489
+URxvt*color12:    #404CB3
+!magenta
+URxvt*color5:     #82345F
+URxvt*color13:    #B63B9F
+!cyan
+URxvt*color6:     #547F72
+URxvt*color14:    #789CA0
+!white
+URxvt*color7:     #dddddd
+URxvt*color15:    #dddddd
+
+URxvt.perl-ext-common : default,matcher
+URxvt.urlLauncher     : google-chrome
+URxvt.matcher.button  : 1
+
+URxvt.perl-ext-common : tabbed
+URxvt.tabbed.tabbar-fg: 5
+URxvt.tabbed.tabbar-bg: 0
+URxvt.tabbed.tab-fg:    14
+URxvt.tabbed.tab-bg:    0
+URxvt.perl-ext-common : quake

@@ -1,0 +1,67 @@
+! fni .Xresources2
+! fey (http://dotshare.it/dots/381/)
+
+*background: rgb:00/00/00
+*foreground: rgb:98/98/c8
+
+!URxvt*background: Black
+!URxvt*transparent: true
+!URxvt*shading: 10
+URxvt.font: -*-terminus-medium-*-*-*-*-140-*-*-*-*-u
+URxvt*font: xft:Terminus:pixelsize=15:antialias=false
+URxvt.boldFont: xft:Terminus:pixelsize=15:antialias=false
+URxvt.italicFont: xft:Terminus:pixelsize=13:Italic
+URxvt.perl-ext-common: default,matcher
+URxvt.urlLauncher: dwb
+URxvt.matcher.button: 2
+URxvt.matcher.pattern.1: \\bwww\\.[\\w-]\\.[\\w./?&@#-]*[\\w/-]
+URxvt*scrollBar_right: false
+URxvt*scrollBar: false
+!URxvt*borderColor:        #151515
+URxvt*colorBD:            #ffffff
+URxvt*cursorColor:        #374757 
+URxvt*cursorColor2:       #000000
+URxvt*urgentOnBell: true
+URxvt.keysym.Control-Down:\033[1;5B 
+URxvt.keysym.Control-Left:\033[1;5D 
+URxvt.keysym.Control-Right:\033[1;5C
+URxvt.keysym.Control-Up:\033[1;5A 
+
+Xft.dpi:        96
+Xft.antialias:  false
+Xft.rgba:       none
+Xft.hinting:    false
+
+xterm*faceName:           terminus:bold:pixelsize=13
+xterm*jumpScroll:         true
+xterm*multiScroll:        true
+xterm*saveLines:          1024
+xterm*scrollKey:          true
+xterm*scrollTtyOutput:    false
+
+!black
+*color0:    #000000
+*color8:    #1e2236
+!red
+*color1:    #af0532
+*color9:    #fe0053
+!green
+!*color2:    #047781
+*color2:    #00a922
+!*color10:   #00e9fe
+*color10:   #00FF00
+!yellow
+*color3:    #b5b3ac
+*color11:   #f3dfb5
+!blue
+*color4:    #334fc6
+*color12:   #637fe9
+!magenta
+*color5:    #5d37aa
+*color13:   #ac2afe
+!cyan
+*color6:    #009999
+*color14:   #00FFFF
+!white
+*color7:    #b5b8e2
+*color15:   #ffffff

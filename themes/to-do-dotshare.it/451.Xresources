@@ -1,0 +1,49 @@
+! Holo Theme
+! eldamar (http://dotshare.it/dots/451/)
+
+!Holo Theme
+#define t_background #F9F9F9
+#define t_current_line #D7D7D7
+#define t_selection #0099CC
+#define t_foreground #333333
+#define t_comment #555555
+#define t_red #0099CC
+#define t_orange #FF8800
+#define t_yellow #FFBB33
+#define t_green #669900
+#define t_aqua #33B5E5
+#define t_blue #0099CC
+#define t_purple #9933CC
+
+! colours for bold, underline, italic
+URxvt.colorIT: t_green
+URxvt.colorBD: t_red
+URxvt.colorUL: t_blue
+
+! terminal colours
+*background: t_background
+*foreground: t_comment
+! black
+*color0: t_current_line
+*color8: t_selection
+! red
+*color1: t_red
+*color9: #FF3334
+! green
+*color2: t_green
+*color10: #9ec400
+! yellow
+*color3: t_yellow
+*color11: t_orange
+! blue
+*color4: t_blue
+*color12: #5B95C6
+! magenta
+*color5: t_purple
+*color13: #b777e0
+! cyan
+*color6: t_aqua
+*color14: #54ced6
+! white
+*color7: t_comment
+*color15: t_foreground

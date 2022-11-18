@@ -1,0 +1,73 @@
+! fni .Xresources3
+! fey (http://dotshare.it/dots/382/)
+
+*background: rgb:12/09/21
+*foreground: rgb:f7/b7/ac
+
+
+!URxvt*background: Black
+!URxvt*background: rgb:06/0B/19
+!URxvt*transparent: true
+!URxvt*shading: 10
+URxvt.font: -*-terminus-medium-*-*-*-*-140-*-*-*-*-u
+URxvt*font: xft:Terminus:pixelsize=15:antialias=false
+URxvt.boldFont: xft:Terminus:pixelsize=15:antialias=false
+URxvt.italicFont: xft:Terminus:pixelsize=13:Italic
+URxvt.perl-ext-common: default,matcher
+URxvt.urlLauncher: dwb
+URxvt.matcher.button: 2
+URxvt.matcher.pattern.1: \\bwww\\.[\\w-]\\.[\\w./?&@#-]*[\\w/-]
+URxvt*scrollBar_right: false
+URxvt*scrollBar: false
+!URxvt*borderColor:        #151515
+URxvt*colorBD:            #ffffff
+URxvt*cursorColor:        #374757 
+URxvt*cursorColor2:       #000000
+URxvt*urgentOnBell: true
+URxvt.keysym.Control-Down:\033[1;5B 
+URxvt.keysym.Control-Left:\033[1;5D 
+URxvt.keysym.Control-Right:\033[1;5C
+URxvt.keysym.Control-Up:\033[1;5A 
+
+Xft.dpi:        96
+Xft.antialias:  false
+Xft.rgba:       none
+Xft.hinting:    false
+
+xterm*faceName:           terminus:bold:pixelsize=13
+xterm*jumpScroll:         true
+xterm*multiScroll:        true
+xterm*saveLines:          1024
+xterm*scrollKey:          true
+xterm*scrollTtyOutput:    false
+
+UXTerm*bellIsUrgent: true
+!*foreground: #D7D0C7
+!*background: #151515
+
+!black
+! *color0:     #AF875F
+! *color8:     #AF875F
+*color0:     #101010
+*color8:     #404040
+!red
+*color1:     #af0532
+*color9:     #FF3D3D
+!green
+*color2:     #72A92E
+*color10:    #A0EF5D
+!yellow
+*color3:     #C18A2D
+*color11:    #F8DD21
+!blue
+*color4:     #2D71BF
+*color12:    #6EAFFF
+!magenta
+*color5:     #8B34EB
+*color13:    #C552FF
+!cyan
+*color6:     #6D878D
+*color14:    #42717B
+!white
+*color7:     #a5a8c2
+*color15:    #ffffff

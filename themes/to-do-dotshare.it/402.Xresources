@@ -1,0 +1,29 @@
+! gaymatrix
+! defektz (http://dotshare.it/dots/402/)
+
+URxvt.background: #1c2027
+URxvt.foreground: #A0FF73
+
+URxvt.color0:  #515151
+URxvt.color8:  #383838
+!red
+URxvt.color1:  #955C6E
+URxvt.color9:  #B2395F
+!green
+URxvt.color2:  #62AE70
+URxvt.color10: #3CBD54
+!yellow
+URxvt.color3:  #D8AA48
+URxvt.color11: #D9A12A
+!blue
+URxvt.color4:  #45A1B8
+URxvt.color12: #4583B8
+!magenta
+URxvt.color5:  #B8B145
+URxvt.color13: #CFC743
+!cyan
+URxvt.color6:  #43A8CF
+URxvt.color14: #43CF7C
+!white
+URxvt.color7:  #C1E4CF
+URxvt.color15: #E3E4C1

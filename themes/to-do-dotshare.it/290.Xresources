@@ -1,0 +1,47 @@
+! haxball
+! scrawky (http://dotshare.it/dots/290/)
+
+! background
+*background: #3c312b
+! foreground
+*foreground: #d2c2b8
+
+! black
+*color0: #000000
+! grey
+*color8: #303030
+
+! dark red
+*color1: #e56e56
+! red
+*color9: #ffcccc
+
+! dark green
+*color2: #718c5a
+! green
+*color10: #939e7f
+
+! dark yellow
+*color3: #e9cc6e
+! yellow
+*color11: #fddb97
+
+! dark blue
+*color4: #5689e5
+! blue
+*color12: #ccccff
+
+! dark magenta
+*color5: #302722
+! magenta
+*color13: #604e44
+
+! dark cyan
+*color6: #5a5a5a
+! cyan
+*color14: #737373
+
+! light grey
+*color7: #515151
+! white
+*color15: #fdfdfd
