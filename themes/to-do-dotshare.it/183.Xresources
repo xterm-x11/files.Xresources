@@ -1,0 +1,88 @@
+! EleBrit
+! Deckon (http://dotshare.it/dots/183/)
+
+!-----------------------------
+!Mote:    Colores del Sistema
+!Tema:    Elegit
+!Autor:   Deckon
+!Archivo: .Xdefaults 
+!Fecha:   31-07-2011
+!-----------------------------
+
+!-----------
+!Scroll bar
+!-----------
+urxvt*scrollBar: false
+
+!-----------------
+!Lineas a guardar
+!-----------------
+urxvt.saveLines: 6000
+
+!-----
+!Tabs
+!-----
+!urxvt.perl-ext-common:  default,tabbed
+
+!-------
+!Fuente
+!-------
+urxvt*font: xft: erusfont:pixelsize=10
+
+!---------------------------------
+!Parpadeo en el cursosr del promt
+!---------------------------------
+urxvt*cursorBlink: true
+
+!--------------
+!Transparensia
+!--------------
+urxvt*transparent: true
+urxvt*shading: 15
+
+!---------
+! Colores
+!---------
+*background: #111111
+*foreground: #babdb6
+
+!---------------------
+! Negro + GrisObscuro
+!---------------------
+*color0:  #060203
+*color8:  #444444
+!--------------------
+! RojoObscuro + Rojo
+!--------------------
+*color1:  #C54200
+*color9:  #DB703A
+!----------------------
+! VerdeObscuro + Verde
+!----------------------
+*color2:  #667B24
+*color10: #70880B
+!----------------------------
+! AmarilloObscuro + Amarillo
+!----------------------------
+*color3:  #E3A100
+*color11: #E5BE21
+!--------------------
+! AzulObscuro + Azul
+!--------------------
+*color4:  #3856B8
+*color12: #4179CF
+!---------------------------
+! MagentaObscuro + Mangenta
+!---------------------------
+*color5:  #961FB5
+*color13: #B550D0
+!-------------------
+!CyanObscuro + Cyan
+!-------------------
+*color6:  #2E8FAC
+*color14: #48A0B8
+!---------------
+! Gris + Blanco
+!---------------
+*color7:  #C5E0E1
+*color15: #D9FDFF

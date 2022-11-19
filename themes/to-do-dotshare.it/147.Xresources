@@ -1,0 +1,30 @@
+! Greenish
+! ivo (http://dotshare.it/dots/147/)
+
+URxvt*background: #000010
+URxvt*foreground: #B5AA72
+ 
+!! Greenish theme
+*color0:       #000010
+*color8:       #666666
+!! DarkRed + Red
+*color1:       #69232E
+*color9:       #F95842
+!! DarkGreen + Green
+*color2:       #8ba574
+*color10:      #a5dca5
+!! DarkYellow + Yellow
+*color3:       #8F8316
+*color11:      #C4D684
+!! DarkBlue + Blue
+*color4:       #8794A2
+*color12:      #6884AB
+!! DarkMangenta + Mangenta
+*color5:       #973BE0
+*color13:      #A972D4
+!!DarkCyan + Cyan
+*color6:       #418179
+*color14:      #71bebe
+!! LightGrey + White
+*color7:       #bebebe
+*color15:      #ffffff

@@ -1,0 +1,27 @@
+! Kaze - 2
+! muzieca (http://dotshare.it/dots/166/)
+
+!black
+*color0:    #5d5d5d
+*color8:    #8a8a8a
+!red
+*color1:    #ff5977
+*color9:    #ff99ac
+!green
+*color2:    #cbff59
+*color10:   #dfff99
+!yellow
+*color3:    #ffe159
+*color11:   #ffec99
+!blue
+*color4:    #8e59ff
+*color12:   #b999ff
+!magenta
+*color5:    #e159ff
+*color13:   #ec99ff
+!cyan
+*color6:    #59ffe1
+*color14:   #99ffec
+!white
+*color7:    #afafaf
+*color15:   #cacaca

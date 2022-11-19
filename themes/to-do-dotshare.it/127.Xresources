@@ -1,0 +1,83 @@
+! colorsvariant
+! Deckon (http://dotshare.it/dots/127/)
+
+!-----------------------------
+!Mote:    Colores del Sistema
+!Tema:    colorsvariant
+!Autor:   Deckon
+!Archivo: .Xdefaults 
+!Fecha:   02-07-2011
+!-----------------------------
+
+!-----------
+!Scroll bar
+!-----------
+urxvt*scrollBar: false
+
+!-----
+!Tabs
+!-----
+urxvt.perl-ext-common:  default,tabbed
+
+!-------
+!Fuente
+!-------
+urxvt*font: xft: erusfont:pixelsize=10
+
+!---------------------------------
+!Parpadeo en el cursosr del promt
+!---------------------------------
+urxvt*cursorBlink: true
+
+!--------------
+!Transparensia
+!--------------
+!urxvt*transparent: true
+!urxvt*shading: 20
+
+!---------
+! Colores
+!---------
+*background: #111111
+*foreground: #babdb6
+
+!---------------------
+! Negro + GrisObscuro
+!---------------------
+*color0:  #2D2D2D
+*color8:  #555753
+!--------------------
+! RojoObscuro + Rojo
+!--------------------
+*color1:  #E16184
+*color9:  #FFAED1
+!----------------------
+! VerdeObscuro + Verde
+!----------------------
+*color2:  #9DEA66
+*color10: #BEFF90
+!----------------------------
+! AmarilloObscuro + Amarillo
+!----------------------------
+*color3:  #FFE358
+*color11: #FFFE8E
+!--------------------
+! AzulObscuro + Azul
+!--------------------
+*color4:  #00B6D1
+*color12: #9BF3FF
+!---------------------------
+! MagentaObscuro + Mangenta
+!---------------------------
+*color5:  #B23FD3
+*color13: #E89DFF
+!-------------------
+!CyanObscuro + Cyan
+!-------------------
+*color6:  #1E4F83
+*color14: #7FBCFF
+!---------------
+! Gris + Blanco
+!---------------
+*color7:  #BFD1D7
+*color15: #E3F7FD

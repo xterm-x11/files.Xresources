@@ -1,0 +1,46 @@
+! Xdefaults
+! benbooth493 (http://dotshare.it/dots/212/)
+
+!Xft settings
+!Xft.dpi:          96
+!Xft.antialias:    true
+!Xft.rgba:         rgb
+!Xft.hinting:      true
+!Xft.hintstyle:    hintslight
+!Xft.lcdfilter:    lcddefault
+!
+!!Colors
+!*background: #000000
+!*foreground: #999999
+!
+!!Black + DarkGrey
+!*color0:  #000000
+!*color8:  #999999
+!
+!!Red + BrightRed
+!*color1:  #8b5f65
+!*color9:  #cd8c95
+!
+!!Green + BrightGreen
+!*color2:  #698b69
+!*color10: #8fbc8f
+!
+!!Yellow + BrightYellow
+!*color3:  #cdc9a5
+!*color11: #cdbe70
+!
+!!Blue + BrightBlue
+!*color4:  #00688b
+!*color12: #a2b5cd
+!
+!!Magenta + BrightMagenta
+!*color5:  #8b668b
+!*color13: #cd96cd
+!
+!!Cyan + BrightCyan
+!*color6:  #53868b
+!*color14: #5f9ea0
+!
+!!LightGrey + White
+!*color7:  #cccccc
+!*color15: #ffffff
