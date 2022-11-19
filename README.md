@@ -15,7 +15,9 @@ Under construction.
 
 ## Themes
 
-Under construction.
+This directory contains over 1000 themes for XTerm.
+
+NEW THEMES ARE WELCOME! If you have a theme that's not already here, please fork this repository and open a pull request from your fork.
 
 Beware clash of lines and expect the output if that happens.
 
