@@ -13,11 +13,11 @@ How-to is inside the file.
 
 Under construction.
 
-## Themes
+## Color themes
 
-This directory contains over 1000 themes for XTerm.
+This directory contains over 1000 color themes for XTerm.
 
-NEW THEMES ARE WELCOME! If you have a theme that's not already here, please fork this repository and open a pull request from your fork.
+NEW COLORS THEMES ARE WELCOME! If you have a color theme that's not already here, please fork this repository and open a pull request from your fork.
 
 Explain here how to set one of the themes:
 
