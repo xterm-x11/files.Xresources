@@ -21,6 +21,10 @@ NEW COLORS THEMES ARE WELCOME! If you have a color theme that's not already here
 
 Explain here how to set one of the themes:
 
+```
+#include "/home/<your_username>/<path_to_registry_directory>/Xresources-files/XTerm-color-theme-registry/switchboard.Xresources"
+```
+
 ### Using the reference
 
 Under construction.

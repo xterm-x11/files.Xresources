@@ -1,0 +1,8 @@
+! Your personal favorites (that you copy-paste below):
+
+!#include "./0001.Xresources"
+
+! Full list of color themes (that are in this registry directory):
+
+#include "./0001.Xresources"
+!#include "./0002.Xresources"
