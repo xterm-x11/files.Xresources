@@ -4,6 +4,8 @@ XTerm*eightBitInput: false
 ! "If you want to use the Alt key on an XTerm. Otherwise, you will just get accented keys."
 ! See https://github.com/MidnightCommander/mc/tree/master/contrib
 
+XTerm*multiClickTime: 250
+! implicit default is 250 milliseconds
 XTerm*on2Clicks: word or line or group or page or all or regex or none
 ! implicit default is word
 XTerm*on3Clicks: word or line or group or page or all or regex or none
