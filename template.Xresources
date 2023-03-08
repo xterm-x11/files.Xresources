@@ -14,3 +14,5 @@ XTerm*on4Clicks: word or line or group or page or all or regex or none
 ! inactive by default
 XTerm*on5Clicks: word or line or group or page or all or regex or none
 ! inactive by default
+XTerm*cutNewline: true or false
+! implicit default is true
