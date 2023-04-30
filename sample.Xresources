@@ -51,3 +51,7 @@ xterm*color15: rgb:fc/fc/fc
 xterm*saveLines: 10000
 xterm*scrollBar: false
 xterm*scrollLines: 1
+
+! Copy-paste
+
+XTerm.vt100.selectToClipboard: true
