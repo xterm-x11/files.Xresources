@@ -4,7 +4,6 @@ XTerm*eightBitInput: false
 ! "If you want to use the Alt key on an XTerm. Otherwise, you will just get accented keys."
 ! See https://github.com/MidnightCommander/mc/tree/master/contrib
 
-
 XTerm.vt100.selectToClipboard: true or false
 ! implicit default is false; true copies to CLIPBOARD; false copies to PRIMARY
 
