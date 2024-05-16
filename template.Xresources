@@ -13,12 +13,37 @@ XTerm*on2Clicks: word or line or group or page or all or regex or none
   ! implicit default is word
 XTerm*on3Clicks: word or line or group or page or all or regex or none
   ! implicit default is line
-If XTerm*on3Clicks is line, then
+! if XTerm*on3Clicks is line, then
   XTerm*cutToBeginningOfLine: true or false
-    ! implicit default is true
+    ! implicit default is 'true'
 XTerm*on4Clicks: word or line or group or page or all or regex or none
   ! inactive by default
 XTerm*on5Clicks: word or line or group or page or all or regex or none
   ! inactive by default
 XTerm*cutNewline: true or false
-  ! implicit default is true
+  ! implicit default is 'true'
+
+! Color theme
+ADD CURSOR COLOR LINE
+xterm*foreground:   <color_foreground>
+xterm*background:   <color_background>
+xterm*color0:       <color_0>
+xterm*color1:       <color_1>
+xterm*color2:       <color_2>
+xterm*color3:       <color_3>
+xterm*color4:       <color_4>
+xterm*color5:       <color_5>
+xterm*color6:       <color_6>
+xterm*color7:       <color_7>
+xterm*color8:       <color_8>
+xterm*color9:       <color_9>
+xterm*color10:      <color_10>
+xterm*color11:      <color_11>
+xterm*color12:      <color_12>
+xterm*color13:      <color_13>
+xterm*color14:      <color_14>
+xterm*color15:      <color_15>
+xterm*colorInnerBorder: true or false
+  ! implicit default is 'false'
+  ! if set to 'true', then
+xterm*borderColor: <color_border>
