@@ -56,5 +56,5 @@ maximized: false or true
 fullscreen: false or 0 OR true or 1 OR always or 2 OR never or 3
   ! implicit default is 'false'
 xterm*internalBorder: 20
-! implicit default is '2'
+! implicit default is '2'; units are pixels
 
