@@ -50,7 +50,7 @@ xterm*borderColor: <color_border>
   ! requires 'colorInnerBorder' to be explicitly set to 'true'
 
 xterm*geometry: <number_of_text_columns_you_want_in_xterm_windows>x<number_of_text_lines_you_want_in_xterm_windows>
-`xterm*geometry: <number_of_text_columns_you_want_in_xterm_windows>x<number_of_text_lines_you_want_in_xterm_windows>+<resolution_offset_to_the_left>+<resolution_offset_down>
+xterm*geometry: <number_of_text_columns_you_want_in_xterm_windows>x<number_of_text_lines_you_want_in_xterm_windows>+<resolution_offset_to_the_left>+<resolution_offset_down>
   ! offsets are set from top left corner of the display area set for windows to the top left corner of the xterm window
 maximized: false or true
   ! implicit default is 'false'
