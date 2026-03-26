@@ -7,7 +7,7 @@
 ! IMPORTANT:
 ! If you update the value on any line in this file, run `$ xrdb -merge ~/.Xresources` to apply the update.
 ! If you un/comment or add/remove one or more lines in this file (like when trying a different color theme),
-! run `$ xrdb -remove` to clear all resources, and then run `$ xrdb -merge ~/.Xresources` to apply the update.
+! then run `$ xrdb -remove` to clear all resources, and then run `$ xrdb -merge ~/.Xresources` to apply the update.
 
 ! Window title
 
