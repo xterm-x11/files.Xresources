@@ -1,7 +1,7 @@
 ! Sample `.Xresources` file for (new) XTerm users
 ! TIP: If you are new to XTerm and have not modified your system Xresources, follow these initial instructions:
 ! 1. Download and save this file as `.Xresources` to your user home directory (`~/.Xresources`).
-! 2. Run `$ xrdb -merge ~/.Xresources`.
+! 2. Run `$ xrdb -merge ~/.Xresources` to load this file.
 ! 3. Open a new XTerm window. You can run `$ xterm &`.
 ! NOTE: To view the applied contents of this file, run `$ xrdb -query`.
 ! IMPORTANT:
