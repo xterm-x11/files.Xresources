@@ -52,7 +52,8 @@ xterm*color15: rgb:fc/fc/fc
 
 ! Cursor
 
-XTerm*cursorBlink: true
+XTerm.VT100.cursorColor: #5f00af
+XTerm.VT100.cursorBlink: never
 
 ! History and scrolling
 
@@ -62,4 +63,4 @@ xterm*scrollLines: 1
 
 ! Copy-paste
 
-XTerm.vt100.selectToClipboard: true
+XTerm.VT100.selectToClipboard: true
