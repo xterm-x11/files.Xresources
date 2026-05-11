@@ -54,7 +54,7 @@ xterm*borderColor: <color_border>
   ! requires 'colorInnerBorder' to be explicitly set to 'true'
 
 ! Cursor properties
-XTerm.vt100.cursorColor: <cursor_color>
+XTerm.VT100.cursorColor: <cursor_color>
 XTerm.VT100.cursorBlink: never
   ! true, never, false
 
