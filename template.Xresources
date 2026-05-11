@@ -54,11 +54,9 @@ xterm*borderColor: <color_border>
   ! requires 'colorInnerBorder' to be explicitly set to 'true'
 
 ! Cursor properties
-XTerm*cursorBlink: true
-  ! true, false, never?
 XTerm.VT100.cursorColor: <cursor_color>
-XTerm.VT100.cursorBlink: never
-  ! true, never, false
+XTerm.VT100.cursorBlink: true or never or false
+XTerm*cursorBlink: true or never or false
 
 xterm*geometry: <number_of_text_columns_you_want_in_xterm_windows>x<number_of_text_lines_you_want_in_xterm_windows>
 xterm*geometry: <number_of_text_columns_you_want_in_xterm_windows>x<number_of_text_lines_you_want_in_xterm_windows>+<move_window_pixels_right>+<move_window_pixels_down>
