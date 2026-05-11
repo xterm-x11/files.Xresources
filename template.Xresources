@@ -55,7 +55,7 @@ xterm*borderColor: <color_border>
 
 ! Cursor properties
 XTerm*cursorBlink: true
-  ! true, false
+  ! true, false, never?
 XTerm.VT100.cursorColor: <cursor_color>
 XTerm.VT100.cursorBlink: never
   ! true, never, false
