@@ -67,3 +67,7 @@ fullscreen: false or 0 OR true or 1 OR always or 2 OR never or 3
 xterm*internalBorder: 20
 ! implicit default is '2'; units are pixels
 
+XTerm.vt100.translations: #override \n\
+    Ctrl <Key> minus: smaller-vt-font() \n\
+    Ctrl <Key> plus: larger-vt-font() \n\
+    Ctrl <Key> 0: set-vt-font(d)
